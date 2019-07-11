@@ -3,4 +3,4 @@ A web application that monitors Amazon product prices and shoots users an e-mail
 
 ![](screenshots/landing_page.png)
 
-All rights reserved.
+© 2019 Sagar Lohana. All rights reserved.
