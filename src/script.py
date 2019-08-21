@@ -23,7 +23,8 @@ print(price)
 print(result)
 
 # Pseudo structure for how checking for price feasibility will work
-if(desired_price > float(result)):
+if(desired_price >= float(result)):
     print("Yes you can purchase it")
 else:
     print("No not in your price range")
+ 
