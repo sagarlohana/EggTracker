@@ -3,6 +3,7 @@
 from flask import Blueprint, render_template, request, redirect, url_for
 from flask_login import login_required, current_user
 from . import db
+from .src.script import track
 
 main = Blueprint('main', __name__)
 
@@ -25,3 +26,8 @@ def subscribe():
     current_user.price = price
     db.session.commit()
     return redirect(url_for('main.profile'))
+
+@main.route('/dashboard')
+def dashboard():
+    valid = track(current_user.url, current_user.price)
+    return render_template('dashboard.html', valid=valid)
