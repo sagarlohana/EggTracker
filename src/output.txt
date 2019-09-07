@@ -1,0 +1,1953 @@
+<bound method Tag.prettify of <!DOCTYPE HTML>
+
+<html lang="en-ca">
+<head>
+<script src="https://imk.neweggimages.com/WebResource/Scripts/can/strc/canada_prod/d2f967b83a0c92b19d9b572545fdbdc3d591f6f5/biztralib.js"></script>
+<title>MSI GL73 9RCX-030 Gaming Laptop Intel Core i5-9300H 2.40 GHz 17.3" Windows 10 Home 64-bit - Newegg.ca</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="always" name="referrer"/>
+<meta content="Newegg, Newegg.ca,MSI GL Series GL73 9RCX-030 17.3&amp;#34; 60 Hz Intel Core i5 9th Gen 9300H &amp;#40;2.40 GHz&amp;#41; NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop" name="keywords"/>
+<meta content="Buy MSI GL Series GL73 9RCX-030 17.3&amp;#34; 60 Hz Intel Core i5 9th Gen 9300H &amp;#40;2.40 GHz&amp;#41; NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop with fast shipping and top-rated customer service. Newegg shopping upgraded ™" name="description"/>
+<meta content="https://c1.neweggimages.com/NeweggImage/ProductImage/34-155-245-V19.jpg" property="og:image"/>
+<meta content="Buy MSI GL Series GL73 9RCX-030 17.3&amp;#34; 60 Hz Intel Core i5 9th Gen 9300H &amp;#40;2.40 GHz&amp;#41; NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop with fast shipping and top-rated customer service. Newegg shopping upgraded ™" property="og:description"/>
+<link href="https://www.newegg.ca/amp/black-msi-gl-series-gl73-9rcx-030-gaming-entertainment/p/N82E16834155245" rel="amphtml"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@Newegg" name="twitter:site"/>
+<meta content="MSI GL73 9RCX-030 Gaming Laptop Intel Core i5-9300H 2.40 GHz 17.3&amp;#34; Windows 10 Home 64-bit - Newegg.ca" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="english" name="language"/>
+<meta content="© 2000-2019 Newegg Inc" name="copyright"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="index,follow" name="robots"/>
+<link href="https://www.newegg.ca/black-msi-gl-series-gl73-9rcx-030-gaming-entertainment/p/N82E16834155245" rel="canonical"/>
+<meta content="on" name="X-DNS-Prefetch-Control"/>
+<link href="//c1.neweggimages.com/WebResource/Themes/2005/Nest/Newegg.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="//c1.neweggimages.com/WebResource/Themes/2005/CSS/CAN/WWWShared.Newegg.14699.0.min.css" rel="stylesheet" type="text/css">
+<!--[if IE]><link rel="stylesheet" type="text/css" href="//c1.neweggimages.com/WebResource/Themes/2005/CSS/CAN/WWWShared.Fixedie.14699.0.min.css"/><![endif]-->
+<link href="//c1.neweggimages.com/WebResource/Themes/2005/CSS/CAN/WWWShared.NoFixedie.14668.1.min.css" rel="stylesheet" type="text/css">
+<link href="//c1.neweggimages.com/WebResource/Themes/2005/CSS/CAN/WWWNewProduct.30424.0.min.css" rel="stylesheet" type="text/css"/>
+<script src="https://www.newegg.ca/LandingPage/ItemInfo4ProductDetail2016.aspx?Item=34-155-245&amp;ignorebbr=1" type="text/javascript"></script>
+<script type="text/javascript">var nebs = nebs||{};nebs.errors = [];window.onerror = function(){nebs.errors.push(arguments);return true;};</script>
+<script type="text/javascript">!function(i){var t=function(t){this._options={checkOnLoad:!1,resetOnEnd:!1,loopCheckTime:50,loopMaxNumber:5,baitClass:"pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links",baitStyle:"width: 1px !important; height: 1px !important; position: absolute !important; left: -10000px !important; top: -1000px !important;",debug:!1},this._var={version:"3.2.1",bait:null,checking:!1,loop:null,loopNumber:0,event:{detected:[],notDetected:[]}},void 0!==t&&this.setOption(t);var e=this,o=function(){setTimeout(function(){!0===e._options.checkOnLoad&&(!0===e._options.debug&&e._log("onload->eventCallback","A check loading is launched"),null===e._var.bait&&e._creatBait(),setTimeout(function(){e.check()},1))},1)};void 0!==i.addEventListener?i.addEventListener("DOMContentLoaded",o,!1):i.attachEvent("onDOMContentLoaded",o)};t.prototype._options=null,t.prototype._var=null,t.prototype._bait=null,t.prototype._log=function(t,e){console.log("[BlockAdBlock]["+t+"] "+e)},t.prototype.setOption=function(t,e){if(void 0!==e){var o=t;(t={})[o]=e}for(var i in t)this._options[i]=t[i],!0===this._options.debug&&this._log("setOption",'The option "'+i+'" he was assigned to "'+t[i]+'"');return this},t.prototype._creatBait=function(){var t=document.createElement("div");t.setAttribute("class",this._options.baitClass),t.setAttribute("style",this._options.baitStyle),this._var.bait=i.document.body.appendChild(t),this._var.bait.offsetParent,this._var.bait.offsetHeight,this._var.bait.offsetLeft,this._var.bait.offsetTop,this._var.bait.offsetWidth,this._var.bait.clientHeight,this._var.bait.clientWidth,!0===this._options.debug&&this._log("_creatBait","Bait has been created")},t.prototype._destroyBait=function(){i.document.body.removeChild(this._var.bait),!(this._var.bait=null)===this._options.debug&&this._log("_destroyBait","Bait has been removed")},t.prototype.check=function(t){if(void 0===t&&(t=!0),!0===this._options.debug&&this._log("check","An audit was requested "+(!0===t?"with a":"without")+" loop"),!0===this._var.checking)return!0===this._options.debug&&this._log("check","A check was canceled because there is already an ongoing"),!1;this._var.checking=!0,null===this._var.bait&&this._creatBait();var e=this;return!(this._var.loopNumber=0)===t&&(this._var.loop=setInterval(function(){e._checkBait(t)},this._options.loopCheckTime)),setTimeout(function(){e._checkBait(t)},1),!0===this._options.debug&&this._log("check","A check is in progress ..."),!0},t.prototype._checkBait=function(t){var e=!1;if(null===this._var.bait&&this._creatBait(),null===i.document.body.getAttribute("abp")&&null!==this._var.bait.offsetParent&&0!=this._var.bait.offsetHeight&&0!=this._var.bait.offsetLeft&&0!=this._var.bait.offsetTop&&0!=this._var.bait.offsetWidth&&0!=this._var.bait.clientHeight&&0!=this._var.bait.clientWidth||(e=!0),void 0!==i.getComputedStyle){var o=i.getComputedStyle(this._var.bait,null);!o||"none"!=o.getPropertyValue("display")&&"hidden"!=o.getPropertyValue("visibility")||(e=!0)}!0===this._options.debug&&this._log("_checkBait","A check ("+(this._var.loopNumber+1)+"/"+this._options.loopMaxNumber+" ~"+(1+this._var.loopNumber*this._options.loopCheckTime)+"ms) was conducted and detection is "+(!0===e?"positive":"negative")),!0===t&&(this._var.loopNumber++,this._var.loopNumber>=this._options.loopMaxNumber&&this._stopLoop()),!0===e?(this._stopLoop(),this._destroyBait(),this.emitEvent(!0),!0===t&&(this._var.checking=!1)):null!==this._var.loop&&!1!==t||(this._destroyBait(),this.emitEvent(!1),!0===t&&(this._var.checking=!1))},t.prototype._stopLoop=function(t){clearInterval(this._var.loop),this._var.loop=null,!(this._var.loopNumber=0)===this._options.debug&&this._log("_stopLoop","A loop has been stopped")},t.prototype.emitEvent=function(t){!0===this._options.debug&&this._log("emitEvent","An event with a "+(!0===t?"positive":"negative")+" detection was called");var e=this._var.event[!0===t?"detected":"notDetected"];for(var o in e)!0===this._options.debug&&this._log("emitEvent","Call function "+(parseInt(o)+1)+"/"+e.length),e.hasOwnProperty(o)&&e[o]();return!0===this._options.resetOnEnd&&this.clearEvent(),this},t.prototype.clearEvent=function(){this._var.event.detected=[],this._var.event.notDetected=[],!0===this._options.debug&&this._log("clearEvent","The event list has been cleared")},t.prototype.on=function(t,e){return this._var.event[!0===t?"detected":"notDetected"].push(e),!0===this._options.debug&&this._log("on",'A type of event "'+(!0===t?"detected":"notDetected")+'" was added'),this},t.prototype.onDetected=function(t){return this.on(!0,t)},t.prototype.onNotDetected=function(t){return this.on(!1,t)},i.BlockAdBlock=t,void 0===i.blockAdBlock&&(i.blockAdBlock=new t({checkOnLoad:!0,resetOnEnd:!0}))}(window);NEGOnError = function(){function sendlog(detectedAdBlock){document.createElement('img').src='//pf.newegg.com/tracking?&entryType=JSCSSBlock&nvtc=' +nvtcValue+ '&url=' +encodeURIComponent("//c1.neweggimages.com/WebResource/Scripts/CAN/NeweggJS/NEG.0.2.4.js") + '&blocker='+detectedAdBlock+'&servername='+nt_serverName;}var nvtcValue = getCookie('NVTC');blockAdBlock.setOption({checkOnLoad:true});blockAdBlock.onDetected(function(){sendlog(true)}).onNotDetected(function(){sendlog(false)});};function getCookie(cname) { var name = cname + "=";var ca = document.cookie.split(';');for (var i = 0; i < ca.length; i++){var c = ca[i];while (c.charAt(0) == ' '){c = c.substring(1);}if (c.indexOf(name) == 0){return c.substring(name.length, c.length);}} return "";}</script>
+<script crossorigin="anonymous" id="negJsID" onerror="NEGOnError()" src="//c1.neweggimages.com/WebResource/Scripts/CAN/NeweggJS/NEG.0.2.4.js" type="text/javascript"></script>
+<script type="text/javascript">(function(NEG){if(NEG && NEG.setVersion){NEG.setVersion([{"module":"Biz.Cookie","version":"12376"},{"module":"Biz.Storage","version":"14421"},{"module":"Biz.InvodoVideo","version":"9792"},{"module":"Biz.Items","version":"9792"},{"module":"Biz.Resource","version":"9792"},{"module":"Biz.SearchKeywords","version":"9792"},{"module":"NEG.Utility.QueryStringBuilder","version":"11847"},{"module":"NEG.Widget.History","version":"9792"},{"module":"NEG.Widget.ImageZoomer","version":"13375.e0"},{"module":"NEG.Widget.Mask","version":"10825"},{"module":"NEG.Widget.RangeSlider","version":"12739.0"},{"module":"NEG.Widget.Scroll","version":"9792"},{"module":"NEG.Widget.Viewport","version":"9792"},{"module":"NEG.Widget.Popup","version":"11629"},{"module":"NEG.Widget.AutoConfigurator","version":"10825.1"},{"module":"Widget.Switch","version":"11315"},{"module":"NEG.Widget.FilterManager.Model","version":"10520"},{"module":"NEG.Widget.FilterManager.View","version":"10520"},{"module":"NEG.Widget.PropertyManager.Model","version":"10520.2"},{"module":"NEG.Widget.PropertyManager.ViewManager","version":"10520.2"},{"module":"Utility.Cookie","version":"14421"},{"module":"Utility.JQuery","version":"12376"},{"module":"NEG.ThirdParty.JQuery","version":"12376"},{"module":"Biz.Common.Popup","version":"13760.1"},{"module":"Biz.Common.RecentlyView2016","version":"13025.1"},{"module":"Biz.Common.RecentlyView2012","version":"13025.1"},{"module":"Biz.Product.ProductPersonalization","version":"30098.2"},{"module":"Biz.Product.MiniFeatures","version":"14303.0"},{"module":"NEG.Widget.Drone","version":"14303.1"},{"module":"NEG.Widget.Drone.DroneConfig","version":"14303.1"}]);}})(NEG);</script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/TP_jQueryPlugin/jquery-1.12.4.min.js" type="text/javascript"></script>
+<script type="text/javascript">if(!(typeof jQuery==='undefined')){if($===jQuery){jQuery.noConflict();}}</script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/TP_jQueryPlugin/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+<script type="text/javascript">var nt_serverName="E11WEB10";var CANSite="//www.newegg.ca";var DOMAIN_NAME=".newegg.ca",DOMAIN_TEXT="Newegg.ca";if(!window["Web"]){Web={};};Web["Config"]={Environment:{Url:{WWW:'https://www.newegg.ca/',Shopper:'https://secure.newegg.com/',Secure:'https://secure.newegg.ca/',Content:'//www.newegg.ca/',CDN:'https://www2.newegg.ca/',HttpCache:'//c1.neweggimages.com/WebResource/',HttpsCache:'//c1.neweggimages.com/WebResource/',HttpJSCache:'//c1.neweggimages.com/WebResource/',HttpsJSCache:'//c1.neweggimages.com/WebResource/',Local:'/WebResource/',Language:'en-US',ProductList:'p/pl',ProductDetail:'{Keywords}p/{ParentItemNumber}'},SSLPage:{Login:'https://secure.newegg.ca/NewMyAccount/AccountLogin.aspx?nextpage=https%3a%2f%2fwww.newegg.ca%2fp%2fN82E16834155245%3fItem%3dN82E16834155245%26cm_sp%3dHomepage_Dailydeal-_-P1_34-155-245-_-09072019',Loginout:'https://secure.newegg.ca/NewMyAccount/AccountLogout.aspx',MyAccountIndex:'https://secure.newegg.ca/NewMyAccount/Index.aspx',Shoppingcart:'https://secure.newegg.ca/Shopping/ShoppingCart.aspx',AddTocart:'https://secure.newegg.ca/Shopping/AddToCart.aspx',ActivePoint:'https://secure.newegg.ca/NewMyAccount/ActivePoints.aspx',NewMyAccountAutoNotify:'https://secure.newegg.ca/NewMyAccount/AutoNotify.aspx'},Path:{Images:'Themes/2005/Nest/',Scripts:'Scripts/',Css:'Themes/2005/CSS/'},Cookies:{EnableCookieNameMapping:1},AutoFillBold:{Enable:true,UseContentPage:true},IE11VersionUpgrade:true,SwitchCountrySelectorPopup:false,SearchInputRequestTimeInterval:700,NeweggGlobalUrl:'',WWWPage:{B2BSepEnable: false,IsHomepage: false,IsProductList: false,IsNewStoreAndList: false,IsDailyDealStore: false,IsSubcategory: false,NeweggGlobalStore:'https://www.newegg.ca/Newegg-Global/Store',ProductListEnableRightSide:false},SyncShoppingCart:{MinicartServiceEnable:true,ItemPriceLink:'https://secure.newegg.com/Common/Ajax/MiniCartService.aspx',ItemDetailLink:'https://secure.newegg.com/Common/Ajax/MiniCartService.aspx?IsDetail=true',}},CookieMapping:{'NV_CONFIGURATION':['.newegg.ca',86400000,'',false,0],'NV_PRDLIST':['.newegg.ca',86400000,'',false,0],'NV_ADVSEARCHOPEN':['.newegg.ca',86400000,'',false,0],'NV_CUSTOMERLOGIN':['.newegg.ca',0,'',true,0],'NV_AFFILIATECUSTOMER':['.newegg.ca',604800,'',false,0],'NV_HBXCM':['.newegg.ca',86400000,'',false,0],'NV_ADVSEARCHOPEN':['.newegg.ca',86400000,'',false,0],'NV_CONTACTUS_COOKIE':['.newegg.ca',86400000,'',false,0],'NV_VENDOR_NEWS_LIST':['.newegg.ca',86400000,'',false,0],'CELL_PHONE_COMBO':['.newegg.ca',86400000,'',false,0],'CELL_PHONE_PACKAGE':['',86400000,'',false,0],'NV_THANKYOUTRACKCOOKIE':['.newegg.ca',86400,'',false,0],'NV_CDICOOKIE':['.newegg.ca',10800,'',false,0],'NV_CUSTOMERREVIEWCOOKIE':['',86400000,'',false,0],'NV_GOOGLE_ANALYTICS':['.newegg.ca',2592000,'',false,0],'NV_DVINFO':['.newegg.ca',0,'',false,0],'NV_THIRD_PARTY':['.newegg.ca',2592000,'',false,0],'NV_NEWGOOGLE_ANALYTICS':['.newegg.ca',2592000,'',false,0],'NV_CUSTOMERLOGININTERNALUSER':['.newegg.ca',0,'',false,0],'NV_B2BCUSTOMERLOGIN':['.newegg.ca',0,'',true,0],'NV_TESTCOOKIE':['.newegg.ca',0,'',false,0],'NV_MyNeweggModule':['.newegg.ca',2592000,'',false,0],'AB':['.newegg.ca',0,'',false,0],'NV_SURVEY':['.newegg.ca',2592000,'',false,0],'NV_CERTONA':['.newegg.ca',86400,'',false,0],'NV_FV':['.newegg.ca',0,'',false,0],'NV_GDPR':['.newegg.ca',0,'',false,1],'NV_WISHLIST':['.newegg.ca',2592000,'',false,0],'NV_COUNTRY':['.newegg.ca',2592000,'',false,0],'NV_OTHERINFO':['.newegg.ca',0,'',false,0],'NVTC':['.newegg.ca',2592000,'',false,0],'NV_RECENTLYVIEWEDS':['.newegg.ca',2592000,'',false,0],'NV_SPT':['.newegg.ca',0,'',false,0],'NV_NEWEGGCOOKIE':['.newegg.ca',0,'',false,0],'NV_LOCALSTORAGE':['.newegg.ca',86400000,'',false,0],'NV_NID':['.newegg.ca',2592000,'',false,0],'NV_W57':['.newegg.ca',86400000,'',false,1],'NV_W62':['.newegg.ca',86400000,'',false,1]},SiteCookieInfo:{bizUnit:"CAN",enableReformattedCookie:true,writeReformattedCookie:true},GDPR:{Enable:true,EnbaleLog:true},SiteCatalyst:{Enable:true},recaptchaKey:"6LdSbP8SAAAAAHdDO9N2mdnmLlsTXM5dnDktzRSt",compatiableWithOldGlobalUrl:"False"};Web["Lang"]={"account":"Account Settings","activity":"Activity","addNewVehicle":"Add Vehicle","addToCartErrorMessage":"Some items cannot be added to cart.","afterInstantSavings":"after {0}{1} instant savings","anyEngine":"Any Engine","anyTrim":"Any Trim","autoEngine":"Engine","autoMake":"Make","autoModel":"Model","autoPartsFor":"AUTO PARTS FOR","autoPartsFor2016":"Select Vehicle:","autoTrim":"Trim","autoYear":"Year","buyTogetherAndSave":"Buy Together and Save","by":"By","close":"close","close1":"Close","confirmCustomerEmailAddressInvalid":"- The Confirm Email address you entered is invalid.","cons":"Cons:","correctErrorDescription":"Please correct these error(s) and re-submit","createABundle":"Create a Bundle","currencyCode":"$","customerEmailAddressInvalid":"- The Email address you entered is invalid.","customerProductReview":"Customer Product Review","dateAndTime":"Date/Time","defaultTextInSearchBox":"Keywords, Model # or Item #","defaultWishListName":"Enter new list name here","deleteGarageErrorMessage":"A network error has occurred. Please try again to remove this vehicle.","deleteGarageErrorMessageTitle":"Error","deliveryDate":"Delivery date","destination":"Destination","details":"Details","eggReviews":"{0} egg reviews","emailAddress":"Email Address","emailAddressInvalid":"Your email address is invalid","emailAddressNotMatch":"- Email addresses you input do not match.","emailFieldEmpty":"Your email field is empty","emptyShoppingCart":"Empty Shopping Cart","enterEmail":"Enter your e-mail","enterNewVehicle":"Enter a New Vehicle","enterTheKeyword":"Enter the Keyword","expectedDelivery":"Expected delivery","expiresSoon":"Expires Soon","findPartsFor":"Find Parts for","freeShipping":"Free Shipping","freeShippingBracketMark":"Free Shipping ({0})","freeShippingExclamationMark":"Free Shipping","iframeForLayout":"iframe for layout","in":"in","inputRequired":"More Information Required","inputZipCode":"Please input zip code and continue","itemNumber":"Item Number","items":"0 Items","items1":"Item(s)","items2":"Items","length":"Length:","limitMessageDescription":"- You have exceeded the 1000 characters limit in 'Message' box.","limitTextDescription":"- You have exceeded the {0} characters limit in '{1}' box.","loading":"LOADING...","location":"Location","login":"Login","login2011":"Log in or Register","loginSingnel":"Log in","logOut":"log out","manufacturerVideo":"Manufacturer Video","marketplaceSeller":"Marketplace Seller","messageInvalid":"- The Message you entered is invalid.","myAccount":"My Account","newegg":"newegg","next":"Next &raquo;","no":"No","none":"None","noOrderRecord":"No Order in the last 15 days.","notAvailable":"N/A","notFoundItemDescription":"Sorry! We have found 0 items that match your search criteria \"{0}\".","notFoundVideoDescription":"Sorry! We have found 0 video.","on":"{0} on {1}","or":"or","otherThoughts":"Other Thoughts:","overallReview":"Overall Review:","ownership":"- Ownership:","packageNumber":"Package number","password":"Password","pleaseChooseAOption":"Please choose a {0}","pleaseInputValue":"- Please Input value -","pleaseSelect":"- Please select -","prev":"&laquo; Prev","pros":"Pros:","qASuccessfullySubscribed":"You've successfully subscribed this question !","qASuccessfullyUnSubscribed":"You've successfully unsubscribed this question !","qty":"Qty","qtyBoxDescription":"Please enter a numeric value in the QTY box.","quickAdddeactivated":"# is a deactivated item. Please try again with another item.","quickAddEmptyListError":"Unable to add any items to the shopping cart. Reason: Empty List.","quickAddInvalidError":"Unable to add any items to the shopping cart. Reason: Invalid item(s).","quickAddItemsAcademicError":"# is an academic edition software. You cannot use item number to add this to shopping cart or To-Buy list.","quickAddItemsBuyAlongError":"# is part of a combo deal and cannot be sold separately.  Please try again with another item.","quickAddMorethan5Items":"Your input has resulted in more than 5 items. To narrow down your search, please try again with another Item Number or Mfr. Model Number.","quickAddNotFound":"# is not found.Please review the number and try again.","quickAddoutofstock":"We are sorry. This item is currently out of stock.","quickAddPleaseSelectone":"Please select one:","quickAddSelectitems":"# is associated to multiple items.","quickAddShortage":"Currently only # in stock.","rating":"Rating + {0}","ratingIcon":"rating rating-{0}","readEggReviews":"Read {0} egg reviews","register":"Register","removeItem":"Remove item","requestErrorDescription":"Your request cannot continue because of the following error(s)","reviewedBy":"Reviewed By:","reviewersGaveThisItem":"{0} reviewers gave this item {1} of 5","sampleItemNumber":"i.e. N82E16800996056","sampleItemNumberB2B":"i.e. 9B-00-996-056","saveerror":"Save error please try agian.","saveUpTo":"Save up to $","saveWishListEmpty":"Unable to save any items for later. Reason: Empty List.","saveWishListInvalid":"Unable to save any items for later. Reason: Invalid item(s).","searchKeywords":"(keywords)","searchWithin":"Search Within","seeTerms":"See Terms","select":"Select...","selectACarrier":"- Please select a carrier -","selectanItem":"Select an Item","selectAPhone":"- Please select a phone -","selectAPlan":"- Please select a plan -","selectMaxItems":"You may select only up to 5 items at a time to compare","selectMore":"Select one more item to compare","selectYesOrNo":"Please select YES or NO.","serviceType":"Service type","shipDate":"Ship date","shippedByNewegg":"Shipped by Newegg","shippingInformation":"Shipping Information","shippingLimitations":"Shipping Limitations","shippingRestrictions":"Shipping Restrictions","shoppingCartwithItems":"Shopping Cart with Items","smartSortHelpMsg":"Try the new smart sort tool","status":"Status","studentProgram":"Student Program Eligibility","techLevel":"Tech Level:","textSearchTerms":"Text Search Terms:","thisFit":"This fits","thisNotFit":"This doesn't fit","trackingNumber":"Tracking number","uploadBy":"Upload By:","userNameInvalid":"- The Name you entered is invalid.","videoContest":"Video Contest","viewShoppingCart":"View Shopping Cart","warrantyInfo":"Warranty Info","weight":"Weight","whenYouPurchaseTheseItemTogether":"when you purchase these items together","wishlistEmptyName":"Please enter a new list name.","wishlistError":"System error, please try again.","wishlistexisting":"The title has been used, please use another one.","yes":"Yes","yourOpinionisTooLong":"Your opinion is too long.","yourPrice":"Your Price:"};</script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/Common/GgewenFramework.v1.w.13720.6.e0.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/Common/WebApplication.v1.w.14421.2.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/Common/PageDisplayLib.v1.w.14072.0.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/Common/AutoFilledKeywords.v1.w.30308.2.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/Common/BizCommon.v1.w.30424.0.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/Common/json2.min.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/Common/swfobject.v1.5.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/TP_jQueryPlugin/popup.v1.w.14421.3.e2.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/WWW/ProductReview2017.v1.w.14532.0.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/WWW/Product2016.v1.w.30098.0.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/WWW/CellPhoneLib.v1.w.12809.7.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/TP_LightBox/JQueryLightbox.v1.w.2073.10.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/TP_LightBox/JQueryLightboxMouse.v1.w.2073.10.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/TP_LightBox/JQueryLightboxDrag.v1.w.2073.10.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/TP_jQueryPlugin/jquery.scrollTo-2.1.2.min.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/TP_jQueryPlugin/jquery.tools.1.2.7.min.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/Common/swiper.min.3.4.2.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/Common/tooltip.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/WWW/AutoConfiguratorStripe.v1.w.14413.0.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/WWW/ProductImageGallery.14303.0.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/TP_jQueryPlugin/popup.v1.w.14421.3.e2.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/WWW/WishList.v1.w.30305.0.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/CAN/TP_jQueryPlugin/jquery.tmpl.min.js" type="text/javascript"></script>
+<!-- Begin Monetate ExpressTag Sync v8.1. Place at start of document head. DO NOT ALTER. -->
+<script type="text/javascript">var monetateT = new Date().getTime();</script>
+<script src="//se.monetate.net/js/2/a-f0e60b81/p/newegg.ca/entry.js" type="text/javascript"></script>
+<!-- End Monetate tag. -->
+<script defer="" src="//imk.neweggimages.com/WebResource/Scripts/amber-lib-v7.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">Web.Caching.SyncCookie('[{\"name\":\"NV_CONFIGURATION\",\"changeCookieValues\":[{\"key\":\"CurrencyCode\",\"value\":\"CAD\"},{\"key\":\"DEPA\",\"value\":\"3\"}],\"expire\":0},{\"name\":\"NV_DVINFO\",\"changeCookieValues\":[{\"key\":\"PCID\",\"value\":\"Y\"}],\"expire\":0}]');</script>
+<script type="text/javascript">
+            Biz.Common.TopNavigation.saveOneDimensionCookie(Web.StateManager.Cookies.Name.REGION4CACHE, 'CAN');
+            Biz.Common.TopNavigation.saveOneDimensionCookie(Web.StateManager.Cookies.Name.LANGUAGECODE, 'en');
+            </script>
+<script type="text/javascript">Web=Web||{};Web.XConfig={"enableProductAskSeller":false,"subscription":{"orderFrequencys":[1,2,3,4,5,6],"learMoreLinks":"//www.newegg.ca/HelpInfo/NeweggSubscriptionTerms.aspx"},"enableFinancingPayments":false,"enableEqualPayments":false,"enableEggPoint":true,"eggPointRule":{"enable":true,"hasMultiple":true,"hasPopUp":true,"isTopATag":true},"initialPercentage":5,"isShopRunnerItemOnSchedule4Premier":false,"learnMoreLinks":"//www.newegg.ca/neweggpremier","premierNewMyAccountLogin":"https://secure.newegg.ca/Premier/SignIn.aspx?code=3","ironEgg":{"enable":true,"productPagePromotionLink":"//www.newegg.ca/pricematch","inclueCurrentPage":true},"moreBuyingOptionCount":3,"isMappingPrice2017":true,"isLogin":false,"showFreeShipping4Global":false,"productPageUrl":"{Keywords}p/{ParentItemNumber}","isUSARequest":false,"isCANRequest":true,"prefix":"data-t","countryCode":"CAN","isDefaultRegion":true,"regionCode":{"code":"CAN","name":"USA"},"secureSiteUrl":"https://secure.newegg.ca","wwwSiteUrl":"https://www.newegg.ca","currentCurrencyInfo":{"extraUnit":"","unit":"$","decimalDigits":2,"groupSizes":3,"decimalSeparator":".","groupSeparator":",","positivePattern":0,"supportDecimal":true}}</script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/X/page/CommonLib.14668.5.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//c1.neweggimages.com/WebResource/Scripts/X/page/NewProductDetail.30194.0.js" type="text/javascript"></script>
+<script type="text/javascript">if(top.location!=self.location){top.location.replace(self.location);}</script>
+<script type="text/javascript">Biz.Product.video.isCookie('newegg.ca');</script>
+<script type="text/javascript">Web["Config"]["RecentlyViewPrimaryItem"]='34-155-245';NEG.run(function(require){var recentlyView = require('Biz.Product.RecentlyViewItem');recentlyView.add('34-155-245',15,87340739)});Web["Config"]["IsPersonalizationEdit"]=0;</script>
+<!--[if lt IE 9]><script type="text/javascript" src="//c1.neweggimages.com/WebResource/Scripts/CAN/TP_Html5/html5.js" crossorigin="anonymous"></script><![endif]-->
+</link></link></head>
+<body class="HomePage2013 HomePage2011 price2012">
+<span class="noCSS">Skip to:</span>
+<a class="skiplink" href="#startContent">Content</a>
+<a name="startContent"><span style="display: none">|</span></a>
+<span class="noCSS">|</span>
+<a class="skiplink" href="#footerArea">Footer</a>
+<a name="top"></a>
+<div id="visionImpaired" style="position:absolute;left:0;top:-999px;"></div>
+<div id="message2OlderBrowser">
+<p>Newegg.ca - A great place to buy computers, computer parts, electronics, software, accessories, and DVDs online. With great prices, fast shipping, and top-rated customer service - Newegg shopping upgraded ™</p>
+<p>If you are reading this message, <b>Please  <a href="javascript:void(0);" onclick="window.location = window.location.href;">click this link</a> to reload this page.(Do not use your browser's "Refresh" button).</b>  Please <a href="mailto:webmaster@newegg.ca">email us</a> if you're running the latest version of your browser and you still see this message.</p>
+<p><a href="https://www.newegg.ca/">Newegg.ca - Computer Parts, Laptops, Electronics, HDTVs, Digital Cameras and More!</a></p>
+</div>
+<noscript>
+	If you see this message, your web browser doesn't support JavaScript or JavaScript is disabled. 
+	Please enable JavaScript in your browser settings so Newegg.com can function correctly.
+	</noscript>
+<!--header area begin-->
+<header class="header">
+<div class="header-inner">
+<div class="header-logo">
+<a class="header-logo-img" href="https://www.newegg.ca/" title="Newegg.ca - Computer Parts, Laptops, Electronics, HDTVs, Digital Cameras and More!">
+<img alt="Newegg.ca- Computer Parts, Laptops, Electronics, HDTVs, Digital Cameras and More!" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/logo_CA_534x210.png"/></a>
+<div class="header-logo-bg"></div>
+</div>
+<!-- begin: header tabs -->
+<div class="header-tabs">
+<ul class="header-subsites">
+<li class="header-subsite">
+<a class="header-feedback" id="guest_feedback" onclick="javascript:newegg_inhouse_feedback &amp;&amp; newegg_inhouse_feedback.show();" style="cursor:pointer"><ins>Feedback</ins></a>
+</li>
+</ul>
+<div class="fix"></div>
+</div>
+<!-- end: header tabs -->
+<!-- begin: header top nav -->
+<nav class="top-nav">
+<input id="hiddenOrderInfo" is-update="0" name="hiddenOrderInfo" type="hidden" value=""/>
+<input id="switch_premier2016" type="hidden" value="True"/>
+<ul class="top-nav-tabs">
+<li class="top-tab tab-promo plain" id="phCANHomepageStatementLi" style="background: none repeat scroll 0 0 rgba(0, 0, 0, 0); color: #ddd; display: none;">All prices shown in Canadian dollars<br/>unless otherwise specified.</li>
+<!--Account-->
+<li class="top-nav-tab" id="canSite">
+<script type="text/javascript">Biz.Common.TopNavigation.loginPageHeader2015();</script>
+</li>
+<li class="top-nav-tab has-menu top-premier-menu">
+<a class="top-nav-tab-name" href="javascript:void(0);"><ins>Try</ins> <i class="icon-premier icon-premier-md-gold"></i></a>
+<div class="top-nav-menu">
+<i class="fa fa-caret-down"></i>
+<i class="top-nav-menu-arrow"></i>
+<div class="top-nav-menu-inner">
+<ul class="top-nav-menu-links">
+<li>
+<div class="top-premier-menu-title">TRY NEWEGG PREMIER FOR FREE TODAY!</div>
+<p class="top-premier-menu-note"><strong>Free 30-Day Trial</strong> when you sign up for a 12-month Newegg Premier membership. Sign up and start enjoying:</p>
+</li>
+<li class="top-nav-menu-split">
+<div class="top-premier-menu-subtitle">Free Shipping</div>
+<p class="top-premier-menu-note">Free domestic ground shipping on qualifying items.</p>
+<div class="top-premier-menu-subtitle">Share Benefits</div>
+<p class="top-premier-menu-note">Add up to four friends to your account so they can enjoy your great Newegg Premier benefits.</p>
+<div class="top-premier-menu-subtitle">Free Returns with No restocking fee</div>
+<p class="top-premier-menu-note">Free shipping on returns and waived all restocking fee for qualifying items.</p>
+<div class="top-premier-menu-subtitle">Dedicated Customer Service</div>
+<p class="top-premier-menu-note">Need quick assistance? Use our private customer service line to help answer any questions or concerns.</p>
+</li>
+<li><p class="top-premier-menu-note"><a href="//www.newegg.ca/neweggpremier">Learn More</a> | <a href="https://secure.newegg.ca/Premier/SignIn.aspx?code=3">Sign Up Now</a></p></li>
+</ul>
+</div>
+</div>
+</li>
+<!--ShoppingCart-->
+<li class="top-nav-tab" id="miniCart">
+<script type="text/javascript">prepareMiniCartInfo(true)</script>
+</li>
+<li class="top-nav-tab menu-align-right has-menu" id="liWishList">
+<a class="top-nav-tab-name" href="javascript:void(0);"><i class="top-nav-tab-icon fa fa-heart"></i><ins>Wish List</ins></a>
+<div class="top-nav-menu">
+<i class="fa fa-caret-down"></i><i class="top-nav-menu-arrow"></i>
+<div class="top-nav-menu-inner">
+<ul class="top-nav-menu-links">
+<li><a href="https://secure.newegg.ca/WishList/MyWishlists">My Wish Lists</a></li>
+<li><a href="https://secure.newegg.ca/WishList/FollowWishlists">Followed Wish Lists</a></li>
+<li><a href="https://secure.newegg.ca/WishList/PublicWishlists">Public Wish Lists</a></li>
+</ul>
+</div>
+</div>
+</li>
+<script type="text/javascript">
+
+                var wishlistPageUrlAlias = {
+                    WishListAjaxMiddlePage: "https://www.newegg.ca/Common/Ajax/WishListAjaxMiddlePage.aspx",
+                    MyWishListDetail: "https://secure.newegg.ca/Wishlist/MyWishlistDetail", 
+                    MyWishLists: "https://secure.newegg.ca/WishList/MyWishlists"
+                };
+            </script>
+<script type="text/javascript">
+                     jQuery('#liWishList').bind('mouseover.loadWishlist', function () {
+                         jQuery("#liWishList").unbind("mouseover.loadWishlist");
+                         Biz.Common.TopNavigation.setWishlist(wishlistPageUrlAlias.WishListAjaxMiddlePage, wishlistPageUrlAlias.MyWishListDetail, wishlistPageUrlAlias.MyWishLists);
+                     });
+                 </script>
+<li class="top-nav-tab menu-align-right has-menu"><a class="top-nav-tab-name" href="javascript:void(0);"><i class="top-nav-tab-icon fa fa-question-circle"></i><ins>Customer Service</ins> </a>
+<div class="top-nav-menu">
+<i class="fa fa-caret-down"></i><i class="top-nav-menu-arrow"></i>
+<div class="top-nav-menu-inner">
+<ul class="top-nav-menu-links">
+<li><a href="https://secure.newegg.ca/Guest/OrderLogin.aspx?Source=1" id="headerTrackOrder">Track An Order</a></li>
+<li><a href="https://secure.newegg.ca/Guest/OrderLogin.aspx?Source=4" id="findInvoice">Find Invoice</a></li>
+<li><a href="https://secure.newegg.ca/Guest/OrderLogin.aspx?Source=2" id="headerReturnItem">Return An Item</a></li>
+<li><a href="https://secure.newegg.ca/Guest/OrderLogin.aspx?Source=3" id="checkReturnStatus">Check Return Status</a></li>
+<li><a href="//www.newegg.ca/Special/Rebate.aspx?name=Rebate-Center">Find Rebates</a></li>
+<li class="top-nav-menu-split"><a href="https://kb.newegg.ca/"><i class="fa fa-info-circle"></i> Help Center</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<script type="text/javascript">
+    jQuery(document).ready(function () { Biz.Common.TopNavigation.setLink(); });
+</script>
+<!-- end: header top nav -->
+</div>
+<nav class="nav-bar">
+<div class="nav-bar-inner fix">
+<div class="nav-row">
+<div class="nav-col">
+<div class="btn-group">
+<!-- begin: site main nav -->
+<nav class="btn-group-cell menu-box main-nav" id="menu_async">
+<a class="btn btn-primary has-icon-right fa-caret-down main-nav-title" href="javascript:void(0);">All Products</a>
+<div class="menu-box-body">
+<i class="menu-box-arrow"></i>
+<div class="menu-box-body-inner" id="main-nav-menu-list">
+<ul class="main-nav-categories">
+</ul>
+</div>
+</div>
+</nav>
+<!-- end: site main nav -->
+<div class="btn-group-cell deals-services menu-box">
+<a class="btn btn-primary has-icon-right fa-caret-down" href="javascript:void(0);">DEALS &amp; SERVICES</a>
+<div class="menu-box-body">
+<i class="menu-box-arrow"></i>
+<div class="menu-box-body-inner">
+<div class="nav-row">
+<div class="nav-col menu-box-split">
+<div class="menu-box-col-260">
+<h3 class="menu-box-title"><a href="//www.newegg.ca/mobile?name=Mobile-Apps">Newegg Mobile <i class="fa fa-caret-right"></i></a></h3><p class="menu-box-note">Shop Exclusive Deals on our Mobile App!</p><h3 class="menu-box-title"><a href="//promotions.newegg.ca/neemail/latest/index-landing.aspx">Email Deals <i class="fa fa-caret-right"></i></a></h3><p class="menu-box-note">Our latest email deals.</p><h3 class="menu-box-title"><a href="//www.newegg.ca/DailyDeal.aspx">Daily Deals <i class="fa fa-caret-right"></i></a></h3><p class="menu-box-note">New deals everyday!</p><h3 class="menu-box-title"><a href="//www.newegg.ca/marketplace?name=Shop-All-Marketplace">Marketplace Spotlight <i class="fa fa-caret-right"></i></a></h3><p class="menu-box-note">Every week, the Newegg deals team hand-picks intriguing products for you.</p><h3 class="menu-box-title"><a href="//www.newegg.ca/Outlet/PromotionStore/ID-80">Outlet <i class="fa fa-caret-right"></i></a></h3><p class="menu-box-note">Open box, clearance, refurbished and recertified PCs , electronics and more.</p>
+</div>
+</div>
+<div class="nav-col">
+<div class="menu-box-col-220">
+<h3 class="menu-box-title">More at Newegg</h3>
+<ul class="menu-box-links">
+<li><a href="//www.newegg.ca/neweggpremier">Premier Membership</a></li>
+<li><a href="//www.newegg.ca/promotions/nepro/18-1552/index.html">Newegg For Business</a></li>
+</ul>
+</div>
+</div>
+<div class="nav-col">
+<a class="menu-banner" href="//www.newegg.ca/neweggpremier"><img alt="premier" height="360px" src="//promotions.newegg.ca/nepro/15-5131/160x360.jpg" width="160px"/></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- begin: marketplace nav -->
+<nav class="btn-group-cell menu-box marketplace-nav">
+<a class="btn btn-primary marketplace-nav-title has-icon-right fa-caret-down" href="javascript:void(0);">FEATURED SELLERS</a>
+<div class="menu-box-body marketplace-nav-body">
+<i class="menu-box-arrow"></i>
+<div class="menu-box-body-inner">
+<div class="nav-row">
+<div class="nav-col menu-box-split">
+<div class="marketplace-nav-top fix">
+<div class="marketplace-nav-top-title">Featured Sellers</div>
+<a class="marketplace-nav-top-right" href="//www.newegg.ca/ProductSort/TopSellerList.aspx">All Sellers <i class="fa fa-caret-right"></i></a>
+</div>
+<ul class="marketplace-nav-brands fix">
+<li class="marketplace-nav-brand" style="height:75px;">
+<a href="//www.newegg.ca/Aero-Malls-Inc/about">
+<img src="//c1.neweggimages.com/Marketing_Place/Seller_logo/Seller_A9H5_d3412b6e-192d-4835-b6b8-5569ed074657.gif" style="max-height:26px;">
+<div class="marketplace-nav-brand-rate">
+<i class="rating rating-5"></i> <strong>3874</strong>
+</div>
+</img></a>
+</li>
+<li class="marketplace-nav-brand" style="height:75px;">
+<a href="//www.newegg.ca/Deal-Targets/about">
+<img src="//c1.neweggimages.com/Marketing_Place/Seller_logo/Seller_ADGE_c75d92c2-230e-444c-84d4-714b88b49c5c.gif" style="max-height:26px;">
+<div class="marketplace-nav-brand-rate">
+<i class="rating rating-5"></i> <strong>1524</strong>
+</div>
+</img></a>
+</li>
+<li class="marketplace-nav-brand" style="height:75px;">
+<a href="//www.newegg.ca/goHardDrive-Canada/about">
+<img src="//c1.neweggimages.com/Marketing_Place/Seller_logo/Seller_AA68_5435bb96-0ea8-4b49-ae0e-ad894123cee0.gif" style="max-height:26px;"/>
+<div class="marketplace-nav-brand-rate">
+<i class="rating rating-4"></i> <strong>136</strong>
+</div>
+</a>
+</li>
+<li class="marketplace-nav-brand" style="height:75px;">
+<a href="//www.newegg.ca/Mike-s-Computer-Shop/about">
+<img src="//c1.neweggimages.com/Marketing_Place/Seller_logo/Seller_A7RD_5c0ab2a6-f8ba-42e8-9b29-fca37f120836.gif" style="max-height:26px;"/>
+<div class="marketplace-nav-brand-rate">
+<i class="rating rating-5"></i> <strong>4043</strong>
+</div>
+</a>
+</li>
+<li class="marketplace-nav-brand" style="height:75px;">
+<a href="//www.newegg.ca/ELECTRONIQUE-HI-FI/about">
+<img src="//c1.neweggimages.com/Marketing_Place/Seller_logo/Seller_A7DC_98426278-cb28-4277-b063-343a5347b05f.gif" style="max-height:26px;"/>
+<div class="marketplace-nav-brand-rate">
+<i class="rating rating-5"></i> <strong>443</strong>
+</div>
+</a>
+</li>
+<li class="marketplace-nav-brand" style="height:75px;">
+<a href="//www.newegg.ca/GT-Omega-Racing/about">
+<img src="//c1.neweggimages.com/Marketing_Place/Seller_logo/Seller_AE82_77023adb-d286-4c09-aedb-04034a605520.gif" style="max-height:26px;"/>
+<div class="marketplace-nav-brand-rate">
+<i class="rating rating-5"></i> <strong>62</strong>
+</div>
+</a>
+</li>
+<li class="marketplace-nav-brand" style="height:75px;">
+<a href="//www.newegg.ca/DJI-official-store/about">
+<img src="//c1.neweggimages.com/Marketing_Place/Seller_logo/Seller_AD64_3185f3b6-4d16-4e18-a921-b81c91f9bb71.gif" style="max-height:26px;"/>
+<div class="marketplace-nav-brand-rate">
+<i class="rating rating-5"></i> <strong>15</strong>
+</div>
+</a>
+</li>
+<li class="marketplace-nav-brand" style="height:75px;">
+<a href="//www.newegg.ca/ADATA-Canada/about">
+<img src="//c1.neweggimages.com/Marketing_Place/Seller_logo/Seller_AFC3_268db88c-da3e-42d1-ac28-5750a3460a20.gif" style="max-height:26px;"/>
+<div class="marketplace-nav-brand-rate">
+<i class="rating rating-5"></i> <strong>137</strong>
+</div>
+</a>
+</li>
+<li class="marketplace-nav-brand" style="height:75px;">
+<a href="//www.newegg.ca/RAIJINTEK-CO-Ltd/about">
+<img src="//c1.neweggimages.com/Marketing_Place/Seller_logo/Seller_AC8X_22f6af5b-0669-448e-86c5-3720fcbd920a.gif" style="max-height:26px;"/>
+<div class="marketplace-nav-brand-rate">
+<i class="rating rating-5"></i> <strong>170</strong>
+</div>
+</a>
+</li>
+<li class="marketplace-nav-brand" style="height:75px;">
+<a href="//www.newegg.ca/noblechairs/about">
+<img src="//c1.neweggimages.com/Marketing_Place/Seller_logo/Seller_AC5T_7fded3b2-0a7f-4c3a-93da-5036efbafdbb.gif" style="max-height:26px;"/>
+<div class="marketplace-nav-brand-rate">
+<i class="rating rating-5"></i> <strong>149</strong>
+</div>
+</a>
+</li>
+<li class="marketplace-nav-brand" style="height:75px;">
+<a href="//www.newegg.ca/Bloody-Gaming-Canada2/about">
+<img src="//c1.neweggimages.com/Marketing_Place/Seller_logo/Seller_ABST_90d96b05-470f-4643-80cf-5d8204028287.gif" style="max-height:26px;"/>
+<div class="marketplace-nav-brand-rate">
+<i class="rating rating-5"></i> <strong>15</strong>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="nav-col">
+<div class="menu-box-col-260">
+<h3 class="menu-box-title">Sellers Of The Month</h3>
+<ul class="menu-box-links">
+<li><a href="//www.newegg.ca/Vitesse/about">VITESSE</a></li>
+<li><a href="//www.newegg.ca/be-quiet/about">BE QUIET</a></li>
+<li><a href="//www.newegg.ca/Deal-Targets/about">Deal Targets</a></li>
+<li><a href="//www.newegg.ca/GTRACING/about">GTRACING</a></li>
+<li><a href="//www.newegg.ca/BRC-INC/about">BRC Inc.</a></li>
+</ul>
+<h3 class="menu-box-title">What's hot</h3>
+<ul class="menu-box-links">
+<li><a href="//www.newegg.ca/Product/Product.aspx?Item=9SIAC5T8CY0740">noblechairs EPIC Series</a></li>
+<li><a href="//www.newegg.ca/Product/Product.aspx?Item=9SIA8X14GR0736">be quiet! DARK BASE 900 ATX</a></li>
+<li><a href="//www.newegg.ca/Product/Product.aspx?Item=9SIAFA66MR5894">BitFenix Computer Case</a></li>
+<li><a href="//www.newegg.ca/Product/Product.aspx?Item=9SIAFWE7WE9974">LG Electronics OLED55C7P 55-Inch 4K TV</a></li>
+<li><a href="//www.newegg.ca/Product/Product.aspx?Item=9SIA8YH36B1276">Bluedio T2S Wireless Bluetooth Headphones</a></li>
+<li><a href="//www.newegg.ca/Product/Product.aspx?Item=9SIA7DC5VT4100">Sennheiser HD 559 Around-Ear Headphones</a></li>
+</ul>
+</div>
+</div>
+<div class="nav-col">
+<a class="menu-banner" href="//www.newegg.ca/Special-Promotion/EventSaleStore/ID-981"><img alt="BE QUIET" height="360px" src="//promotions.newegg.ca/marketplace/18-0623/160x360.jpg" width="160px"/></a>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<!-- end: marketplace nav -->
+</div>
+</div>
+<div class="nav-col nav-col-elastic">
+<!-- begin: search bar -->
+<div class="search-bar haFormQuickSearchTextboxWrapper" id="newHeaderSearchTools">
+<script type="text/javascript">
+        usingNamespace("Biz.Search")["RegionAutoFilledKeywords"] = {
+            disable: 0
+            };
+    </script>
+<form action="https://www.newegg.ca/Product/ProductList.aspx" id="haFormQuickSearch" method="get" name="haFormQuickSearch" onsubmit="return Biz.Common.QuickSearch.submitPagehHeader2011();">
+<div class="nav-row search-bar-inner">
+<div class="nav-col nav-col-elastic search-bar-keywords" id="haQuickSearchTextbox">
+<input autocomplete="off" id="haQuickSearchBox" maxlength="268" name="d" onblur="Biz.Common.QuickSearch.inputFocus(false)" onfocus="Biz.Common.QuickSearch.inputFocus(true)" title="Search Site" type="search" value="Keywords, Model # or Item #"/>
+<div class="search-bar-auto-filled" id="autofilledview"></div>
+<iframe id="iframeKeywords" name="iframeKeywords" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.html" style="width: 0; height: 0; display: none;" title="iframeKeywords">iframe for layout</iframe>
+</div>
+<!--QuickSearchDropdown-->
+<div class="nav-col" id="haQuickSearchDropdown">
+<label class="form-select search-bar-category">
+<select id="haQuickSearchStore" title="Select a store">
+<option selected="selected" value="-1">Search all</option><option value="100006551">Computer Systems</option><option value="100006520">Components</option><option value="100006522">Electronics</option><option value="100006617">Gaming</option><option value="100129454">Networking</option><option value="100018260">Office Solutions</option><option value="100006588">Software &amp; Services</option><option value="100058672">Automotive &amp; Industrial</option><option value="100077508">Home &amp; Tools</option><option value="100077434">Health &amp; Sports</option><option value="100164482">Apparel &amp; Accessories</option><option value="100077230">Hobbies &amp; Toys</option><option value="100010191">Outlet</option>
+</select>
+<span class="form-select-name">Search all</span> <i class="fa fa-caret-down"></i>
+<input id="N" name="N" title="N" type="hidden" value="-1"/>
+<input id="BRID" title="BRID" type="hidden" value=""/>
+<input id="BRNAME" title="BRNAME" type="hidden" value=""/>
+</label>
+</div>
+<div class="nav-col">
+<button class="btn btn-primary btn-mini search-bar-btn" onclick="javascript:Biz.Search.AutoFilledKeywordsNew.search()" type="button">Search</button>
+</div>
+</div>
+<input id="isNewHeaderTool" type="hidden" value="1"/>
+</form>
+</div>
+<script type="text/javascript">
+	Biz.Search.AutoFilledKeywordsNew.init();
+</script>
+<!-- end: search bar -->
+</div>
+</div>
+</div>
+</nav>
+</header>
+<iframe id="commonIframe" name="commonIframe" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.html" style="width: 0; height: 0; display: none;" title="commonIframe">
+    iframe for layout
+</iframe>
+<!-- end: header -->
+<script type="text/javascript">
+        Web.Template.RolloverMenu2015.init();
+    </script>
+<script type="text/javascript">
+        Web.Template.PageHeaderDropDownMenu.init();
+    </script>
+<div class="nav-x-body-top-bar-wrap">
+<div class="nav-x-body-top-bar fix">
+<ol class="breadcrumb" id="baBreadcrumbTop">
+<li>
+<a href="https://www.newegg.ca/" onclick="Biz.Common.SiteCatalyst.sendForOnClick({'eVar74':'Home','events':'event62'}, 'breadcrumb click');" title="Home">Home</a>
+</li>
+<li onclick="Biz.Common.SiteCatalyst.sendForOnClick({'eVar74':'Computer Systems','events':'event62'}, 'breadcrumb click');"><a href="https://www.newegg.ca/Computer-Systems/Store/ID-3" title="Computer Systems">Computer Systems</a></li>
+<li onclick="Biz.Common.SiteCatalyst.sendForOnClick({'eVar74':'Gaming Laptops','events':'event62'}, 'breadcrumb click');"><a href="https://www.newegg.ca/Gaming-Laptops/Category/ID-363?Tid=27628" title="Gaming Laptops">Gaming Laptops</a></li>
+<li onclick="Biz.Common.SiteCatalyst.sendForOnClick({'eVar74':'Gaming Laptops','events':'event62'}, 'breadcrumb click');"><a href="https://www.newegg.ca/Gaming-Laptops/SubCategory/ID-3365?Tid=27629" title="Gaming Laptops">Gaming Laptops</a></li>
+<li onclick="Biz.Common.SiteCatalyst.sendForOnClick({'eVar74':'MSI','events':'event62'}, 'breadcrumb click');"><a href="https://www.newegg.ca/d/MSI-Gaming-Laptops/BrandSubCat/ID-1312-3365" title="MSI">MSI</a></li>
+<li class="is-current">Item#: <em>N82E16834155245</em></li>
+</ol>
+</div>
+</div>
+<div style="width: 100%; margin: 0 auto; height: 15px; border: 0;">
+</div>
+<!--header area end-->
+<div id="container">
+<a name="top">
+<!--Top of Page-->
+</a>
+<!--body area begin-->
+<div id="bodyArea">
+<span id="startContent"></span>
+<div class="v660 background_F6F0E2" itemscope="" itemtype="//schema.org/Product">
+<div itemprop="offers" itemscope="" itemtype="//schema.org/Offer">
+<meta content="979.99" itemprop="price">
+<meta content="CAD" itemprop="priceCurrency">
+</meta></meta></div>
+<!-- Auto Configurator Start -->
+<!-- Auto Configurator End -->
+<div class="backToCombo"><a href="javascript:void(0);" id="BackToCombo" onclick="Biz.Product.GoBackToCombo.GoBack(); " style="display: none">Back To Combo</a></div>
+<div class="section">
+<div class="article">
+<script language="javascript" type="text/javascript">
+    var hdGroupItemModelString = [];
+    var hdGroupItemsString = [];
+    var mapprice2017=true;
+</script>
+<div id="synopsis">
+<script type="text/javascript">
+    var imgGalleryConfig={};
+    imgGalleryConfig.NG_BOX_Sub = 'data-t-events="A" data-t-e-var78="$ - Box - Sub" ';
+    imgGalleryConfig.NG_BOX_Prev = 'data-t-events="A" data-t-e-var78="$ - Box - Prev" ';
+    imgGalleryConfig.NG_BOX_Next = 'data-t-events="A" data-t-e-var78="$ - Box - Next" ';
+    imgGalleryConfig.NG_BOX_ZoomIn = 'data-t-events="A" data-t-e-var78="$ - Box - Zoom In" ';
+    imgGalleryConfig.NG_BOX_ZoomOut = 'data-t-events="A" data-t-e-var78="$ - Box - Zoom Out" ';
+    imgGalleryConfig.NG_BOX_ZoomReset = 'data-t-events="A" data-t-e-var78="$ - Box - Zoom Reset" ';
+    imgGalleryConfig.BaseUrlForS7="//images17.newegg.com/is/image/";
+    imgGalleryConfig.BaseUrlForNonS7="//c1.neweggimages.com/productimage/";
+    imgGalleryConfig.BaseUrlForNonS7W="//c1.neweggimages.com/NeweggImage/productimage/";
+    imgGalleryConfig.BaseUrl1280ForNonS7="//c1.neweggimages.com/ProductImageCompressAll1280/";
+    imgGalleryConfig.BaseUrl1280ForNonS7W="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll1280/";
+    imgGalleryConfig.BaseUrl1280For360View="//c1.neweggimages.com/ProductImageCompressAll1280/";
+    imgGalleryConfig.BaseUrl1280For360ViewW="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll1280/";
+    imgGalleryConfig.SmallImageUrl="//c1.neweggimages.com/ProductImageCompressAll/";
+    imgGalleryConfig.SmallImageUrlW="//c1.neweggimages.com/ProductImageCompressAll/";
+    imgGalleryConfig.ImageFolder="newegg/";
+    imgGalleryConfig.S640="S640";
+    imgGalleryConfig.S640W="S640W";
+    imgGalleryConfig.S60="S60";
+    imgGalleryConfig.spinPlayer="//c1.neweggimages.com/WebResource/Themes/2005/Nest/genericspin371.swf";
+    imgGalleryConfig.spinPlayerSettings="&skin=spinSliderFG371_2.swf,spinSliderBG_2.swf";
+    imgGalleryConfig.zoomPlayer="//c1.neweggimages.com/WebResource/Themes/2005/Nest/genericzoom371.swf";
+    imgGalleryConfig.zoomPlayerSettings="&skin=zoomFG371_2.swf,zoomBG_2.swf";
+    imgGalleryConfig.flashContentRoot="//c1.neweggimages.com/WebResource/Themes/2005/Nest";
+    imgGalleryConfig.currentImg="";
+    imgGalleryConfig.comboName="";
+    imgGalleryConfig.comboImage="";
+    imgGalleryConfig.blankImgSrc="//c1.neweggimages.com/WebResource/Themes/2005/Nest/none.gif";
+    imgGalleryConfig.Items=[{"itemNumber":"N82E16834155245","imageTitle":"MSI GL73 9RCX-030 Gaming Laptop Intel Core i5-9300H 2.40 GHz 17.3&#34; Windows 10 Home 64-bit","hasWaterMark":true,"isComboBundleImage":false,"imageType":"Normal","isDFISImage":true,"scene7ImageInfo":null,"normalImageInfo":{"imageName":"34-155-245-V19.jpg","imageNameList":"34-155-245-V19.jpg,34-155-245-V29.jpg,34-155-245-V30.jpg,34-155-245-V22.jpg,34-155-245-V16.jpg,34-155-245-V17.jpg,34-155-245-V27.jpg,34-155-245-V28.jpg,34-155-245-V25.jpg,34-155-245-V26.jpg,34-155-245-V20.jpg,34-155-245-V21.jpg,34-155-245-V18.jpg,34-155-245-V14.jpg,34-155-245-V15.jpg,34-155-245-V13.jpg,34-155-245-V23.jpg,34-155-245-V24.jpg","dfis360ImgFlag":""},"itemType":{"isDigitalRiverItem":false,"isDVDItem":false,"isOpenBoxItem":false,"isRecertifiedItem":false,"isAITItem":false,"isPhoneItem":false,"isServicePlanItem":false,"isSimCardItem":false,"isRestrictedItem":false,"isComboBundle":false,"isSimplxityItem":false,"isProductKeyOnlyItem":false,"isMicrosoftDownloadItem":false,"isCellPhoneWithPlanItem":false,"isStandaloneSNETItem":false,"isSNETItem":false,"isCiscoServiceItem":false,"isClearanceItem":false,"isBOMDIYItem":false,"isBOMPOSItem":false,"isBOMBTOItem":false,"isAvailableForRegion":true,"isSubscription":false,"isRegularSubscription":false,"isCancelSubscription":false,"isCommitmentSubscription":false,"isSubscriptionOnly":false}}];
+    imgGalleryConfig.openboxDesc="<em>Open Box:</em> Images shown are from the NEW version of this item and are for reference only. The actual Open Box product may differ in packaging and included accessories, but has been tested to ensure basic functionality.";
+    imgGalleryConfig.recertifiedDesc="";
+    imgGalleryConfig.ComboDescText="To <b>view more images</b> of the products in this combo, please click on the <b>thumbnails</b> at the top of the page.";
+    imgGalleryConfig.minVersion = 7;
+    imgGalleryConfig.Type = 1;
+    Biz.Product.ImageGalleryManager.Config=imgGalleryConfig;
+
+    Biz.Product.ImageGalleryManager.ShowHandler = function(showConfig) {
+        var extraFields = "E11WEB10-_-";
+        var utmaValue = Web.StateManager.Cookies.get(Web.StateManager.Cookies.Name.UTMA);
+        if (!String.isNullOrEmpty(utmaValue)) {
+            extraFields += utmaValue;
+        };
+
+        var nvtcValue = Web.StateManager.Cookies.get(Web.StateManager.Cookies.Name.NVTC);
+        if (!String.isNullOrEmpty(nvtcValue)) {
+            extraFields += "-_-";
+            extraFields += nvtcValue;
+        };
+
+        cmCreatePageviewTag("img\x3a \x7b34-155-245\x7d", "ProductShowImage", null, null, "E11WEB10", null, extraFields);
+    };
+</script>
+<div id="main-item-ig" style="display: none;"><em>Open Box:</em> Images shown are from the NEW version of this item and are for reference only. The actual Open Box product may differ in packaging and included accessories, but has been tested to ensure basic functionality.</div>
+<div class="grpAside" tracking-module="Image Gallery">
+<div class="objImages">
+<div class="objOption">
+<a data-t-e-var78="$ - Brand:1312" data-t-events="A" href="https://www.newegg.ca/MSI/BrandStore/ID-1312" title="MSI">
+<img alt="MSI" class="logo" src="//c1.neweggimages.com/brandimage//Brand1312.gif" title="MSI">
+</img></a>
+</div>
+<a data-t-e-var78="$ - Main" data-t-events="A" id="A2" name="gallery" onclick="Biz.Product.ImageGalleryManager.Show({Item:'N82E16834155245',CurImage:''})" title="Click to view the photo gallery">
+<span class="mainSlide" id="mainSlide34-155-245" imgzoompic="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll1280/34-155-245-V19.jpg">
+<img alt='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop' id="mainSlide_034-155-245" onload="Web.UI.Control.removeCss($('mainSlide34-155-245'),'loading');" src="//c1.neweggimages.com/NeweggImage/ProductImage/34-155-245-V19.jpg" title='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop'/>
+</span>
+</a>
+<a class="skiplink" href="#skipImageGallery">Skip Image Gallery</a>
+<ul class="navThumbs">
+<li>
+<a class="noLine" href="javascript:void(0)" onfocus="Biz.Product.DetailPage.swapProductImageWithLoadding2011('//c1.neweggimages.com/NeweggImage/ProductImage/34-155-245-V19.jpg','Biz.Product.ImageGalleryManager.Show({Item:&quot;N82E16834155245&quot;,CurImage:&quot;34-155-245-V19.jpg&quot;})','34-155-245','//c1.neweggimages.com/NeweggImage/ProductImageCompressAll1280/34-155-245-V19.jpg');" onmouseover="Biz.Product.DetailPage.swapProductImageWithLoadding2011('//c1.neweggimages.com/NeweggImage/ProductImage/34-155-245-V19.jpg','Biz.Product.ImageGalleryManager.Show({Item:&quot;N82E16834155245&quot;,CurImage:&quot;34-155-245-V19.jpg&quot;})','34-155-245','//c1.neweggimages.com/NeweggImage/ProductImageCompressAll1280/34-155-245-V19.jpg');" title='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop(Image 1,New Window)'>
+<img alt='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop - image 1' src="//c1.neweggimages.com/ProductImageCompressAll35/34-155-245-V19.jpg" style="width:35px;height:26px;" title='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop - image 1'/>
+</a>
+</li>
+<li>
+<a class="noLine" href="javascript:void(0)" onfocus="Biz.Product.DetailPage.swapProductImageWithLoadding2011('//c1.neweggimages.com/NeweggImage/ProductImage/34-155-245-V29.jpg','Biz.Product.ImageGalleryManager.Show({Item:&quot;N82E16834155245&quot;,CurImage:&quot;34-155-245-V29.jpg&quot;})','34-155-245','//c1.neweggimages.com/NeweggImage/ProductImageCompressAll1280/34-155-245-V29.jpg');" onmouseover="Biz.Product.DetailPage.swapProductImageWithLoadding2011('//c1.neweggimages.com/NeweggImage/ProductImage/34-155-245-V29.jpg','Biz.Product.ImageGalleryManager.Show({Item:&quot;N82E16834155245&quot;,CurImage:&quot;34-155-245-V29.jpg&quot;})','34-155-245','//c1.neweggimages.com/NeweggImage/ProductImageCompressAll1280/34-155-245-V29.jpg');" title='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop(Image 2,New Window)'>
+<img alt='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop - image 2' src="//c1.neweggimages.com/ProductImageCompressAll35/34-155-245-V29.jpg" style="width:35px;height:26px;" title='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop - image 2'/>
+</a>
+</li>
+<li>
+<a class="noLine" href="javascript:void(0)" onfocus="Biz.Product.DetailPage.swapProductImageWithLoadding2011('//c1.neweggimages.com/NeweggImage/ProductImage/34-155-245-V30.jpg','Biz.Product.ImageGalleryManager.Show({Item:&quot;N82E16834155245&quot;,CurImage:&quot;34-155-245-V30.jpg&quot;})','34-155-245','//c1.neweggimages.com/NeweggImage/ProductImageCompressAll1280/34-155-245-V30.jpg');" onmouseover="Biz.Product.DetailPage.swapProductImageWithLoadding2011('//c1.neweggimages.com/NeweggImage/ProductImage/34-155-245-V30.jpg','Biz.Product.ImageGalleryManager.Show({Item:&quot;N82E16834155245&quot;,CurImage:&quot;34-155-245-V30.jpg&quot;})','34-155-245','//c1.neweggimages.com/NeweggImage/ProductImageCompressAll1280/34-155-245-V30.jpg');" title='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop(Image 3,New Window)'>
+<img alt='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop - image 3' src="//c1.neweggimages.com/ProductImageCompressAll35/34-155-245-V30.jpg" style="width:35px;height:26px;" title='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop - image 3'/>
+</a>
+</li>
+<li>
+<a class="noLine" href="javascript:void(0)" onfocus="Biz.Product.DetailPage.swapProductImageWithLoadding2011('//c1.neweggimages.com/NeweggImage/ProductImage/34-155-245-V22.jpg','Biz.Product.ImageGalleryManager.Show({Item:&quot;N82E16834155245&quot;,CurImage:&quot;34-155-245-V22.jpg&quot;})','34-155-245','//c1.neweggimages.com/NeweggImage/ProductImageCompressAll1280/34-155-245-V22.jpg');" onmouseover="Biz.Product.DetailPage.swapProductImageWithLoadding2011('//c1.neweggimages.com/NeweggImage/ProductImage/34-155-245-V22.jpg','Biz.Product.ImageGalleryManager.Show({Item:&quot;N82E16834155245&quot;,CurImage:&quot;34-155-245-V22.jpg&quot;})','34-155-245','//c1.neweggimages.com/NeweggImage/ProductImageCompressAll1280/34-155-245-V22.jpg');" title='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop(Image 4,New Window)'>
+<img alt='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop - image 4' src="//c1.neweggimages.com/ProductImageCompressAll35/34-155-245-V22.jpg" style="width:35px;height:26px;" title='MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop - image 4'/>
+</a>
+</li>
+<li data-t-e-var78="$ - More" data-t-events="A"><a class="noLine" name="viewImageGallery" onclick="Biz.Product.ImageGalleryManager.Show({Item:'N82E16834155245',CurImage:''})">
+<abbr title="Plus 14 more in gallery view.">…</abbr></a></li>
+</ul>
+<span id="skipImageGallery"></span>
+<span class="note"></span>
+</div>
+</div>
+<!--Image Viewer-->
+<div class="grpArticle" tracking-module="Main Info Box">
+<div class="grpDesc boxConstraint">
+<div class="item-disc" id="version_promo" style="display:none;"></div>
+<div class="wrapper">
+<h1 id="grpDescrip_h">
+<span id="grpDescrip_34-155-245" itemprop="name" style="display: inline;">
+                MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop
+            </span>
+</h1>
+</div>
+<div id="landingpage-promo">
+</div>
+<div class="grpRating" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+<a class="itmRating" href="javascript:Biz.Product.Product2016.gotoFeedBack();" name="Community" title="Read reviews...">
+<i class="rating rating-4" title="4 out of 5 eggs"></i><span content="4" itemprop="ratingValue"></span>
+<span class="print" style="display: none;">4/5</span>
+                (<span itemprop="reviewCount">3</span>)
+            </a>
+<div class="text-wrap">
+<a class="atnIcon icnWrite" href="https://secure.newegg.ca/FeedBack/RateProduct.aspx?Item=N82E16834155245&amp;ContinuePage=https%3a%2f%2fwww.newegg.ca%2fblack-msi-gl-series-gl73-9rcx-030-gaming-entertainment%2fp%2fN82E16834155245" title="Log In Required"><img alt="" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/none.gif">Write a Review</img></a>
+</div>
+</div>
+<div id="turntohideinfo" style="display: none;">
+<!--turnto Start-->
+<!--turnto End-->
+</div>
+<script type="text/javascript">
+    (function () {
+        var turntodiv = jQuery("#turntohideinfo #turntolinks");
+        if (turntodiv.length > 0) {
+            if (jQuery(".grpArticle .grpRating .text-wrap").length == 0) {
+                var turnContainer = "<div class=\"text-wrap\"></div>";
+                jQuery(".grpArticle .grpRating").append(turnContainer);
+            }
+            jQuery(".grpArticle .grpRating .text-wrap").append(turntodiv[0]);
+        }
+    })();
+</script>
+<div class="social-bar social-list-dropdown">
+<button class="social-button">
+<i class="fa fa-share-alt"></i>
+        Share
+    </button>
+<form id="sociallinklist">
+<input name="bar_fbhref" type="hidden" value="https://www.newegg.ca/black-msi-gl-series-gl73-9rcx-030-gaming-entertainment/p/N82E16834155245?Item=N82E16834155245&amp;Source=socialshare&amp;cm_mmc=snc-facebook-_-sr-_-34-155-245-_-09072019"/>
+<input name="bar_twittershare" type="hidden" value="https://twitter.com/share"/>
+<input name="bar_twitterpageurl" type="hidden" value="https://www.newegg.ca/black-msi-gl-series-gl73-9rcx-030-gaming-entertainment/p/N82E16834155245?Item=N82E16834155245&amp;Source=socialshare&amp;cm_mmc=snc-twitter-_-sr-_-34-155-245-_-09072019"/>
+<input name="bar_pinhref" type="hidden" value="//pinterest.com/pin/create/button/?url=https://www.newegg.ca/black-msi-gl-series-gl73-9rcx-030-gaming-entertainment/p/N82E16834155245?Item=N82E16834155245&amp;Source=socialshare&amp;cm_mmc=snc-pinterest-_-sr-_-34-155-245-_-09072019&amp;media=%2f%2fc1.neweggimages.com%2fNeweggImage%2fProductImageCompressAll300%2f34-155-245-V19.jpg&amp;description=Check+this+out+on+%40Newegg%3aMSI+GL73+9RCX-030+Gaming+Laptop+Intel+Core+i5-9300H+2.40+GHz+17.3%22+Windows+10+Home+64-bit"/>
+<input name="bar_pintimage" type="hidden" value="//c1.neweggimages.com/WebResource/Themes/2005/Nest/pinterest_save.png"/>
+<input name="tracking_facebook" type="hidden" value='data-t-events="socialShare" data-t-e-var39="facebook" '/>
+<input name="tracking_twitter" type="hidden" value='data-t-events="socialShare" data-t-e-var39="twitter" '/>
+<input name="tracking_pinterest" type="hidden" value='data-t-events="socialShare" data-t-e-var39="pinterest" '/>
+<input name="bar_twittertext" type="hidden" value='Check this out on @Newegg:MSI GL73 9RCX-030 Gaming Laptop Intel Core i5-9300H 2.40 GHz 17.3" Windows 10 Home 64-bit'/>
+</form>
+<ul class="social-list fix" data-permalink="//www.newegg.com" id="ulsociallink">
+<li class="social-btn share-email" data-t-e-var39="email" data-t-events="socialShare">
+<a href="https://secure.newegg.ca/FeedBack/EmailAFriend.aspx?Item=34-155-245&amp;Source=socialshare&amp;cm_mmc=snc-email-_-sr-_-34-155-245-_-09072019" title="Email this page">
+<img alt="Email this page" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/email.jpg">
+</img></a>
+</li>
+</ul>
+</div>
+<div class="grpLayout">
+<div class="grpNote">
+<p class="note note-inventory" id="pNote_34-155-245">
+<span id="landingpage-stock"></span>
+<span class="grpNote-ship">
+                    Ships from United States. Fees for brokerage and duty included in price. 
+                </span>
+</p>
+<p class="grpNote-sold-by">
+                Sold and Shipped by <span class="grpNote-ship-by">Newegg</span></p>
+<div data-neg-popid="SBSPopup_content" style="display: none;">Purchases from these Sellers are generally covered under our <a class="" data-t-e-var78="Main Info Box - Marketplace Seller Popup Guarantee" data-t-events="A" href="https://kb.newegg.ca/Article/Index/12/2?id=1187" style="" target="_blank">Newegg Marketplace Guarantee</a>.</div>
+<div data-neg-title="SBSPopup_title" style="display: none;">Marketplace Seller</div>
+<script type="text/javascript">
+                jQuery(document).ready(function () {
+                    NEG.run(function (require) {
+                        var popup = require('Biz.Common.Popup');
+                        if (jQuery('.SBS-popup').length > 0) {
+                            popup('.SBS-popup', { icon: "info" });
+                        }
+                    });
+                });
+            </script>
+</div>
+</div>
+<script language="javascript" type="text/javascript">
+    var ProductProperty = {
+        properties: [{"name":393,"description":"CPU Type","style":"Swatch","hasPriceAdditionInfo":false,"data":[{"value":1286892,"description":"Intel Core i5 9th Gen","displayInfo":"Intel Core i5 9th Gen"},{"value":1277883,"description":"Intel Core i7 9th Gen","displayInfo":"Intel Core i7 9th Gen"}]},{"name":394,"description":"CPU Speed","style":"Swatch","hasPriceAdditionInfo":false,"data":[{"value":1286891,"description":"9300H &#40;2.40 GHz&#41;","displayInfo":"9300H &#40;2.40GHz&#41;"},{"value":1285602,"description":"9750H &#40;2.60 GHz&#41;","displayInfo":"9750H &#40;2.60GHz&#41;"}]},{"name":402,"description":"GPU/VPU","style":"Swatch","hasPriceAdditionInfo":false,"data":[{"value":1247663,"description":"NVIDIA GeForce GTX 1050 Ti","displayInfo":"NVIDIA GeForce GTX 1050 Ti"},{"value":1283483,"description":"NVIDIA GeForce GTX 1650","displayInfo":"NVIDIA GeForce GTX 1650"},{"value":1283481,"description":"NVIDIA GeForce GTX 1660 Ti","displayInfo":"NVIDIA GeForce GTX 1660 Ti"},{"value":1280928,"description":"NVIDIA GeForce RTX 2060","displayInfo":"NVIDIA GeForce RTX 2060"}]},{"name":403,"description":"Video Memory","style":"Swatch","hasPriceAdditionInfo":false,"data":[{"value":312579,"description":"4 GB","displayInfo":"4 GB"},{"value":459385,"description":"6 GB","displayInfo":"6 GB"}]},{"name":35120,"description":"SSD","style":"Swatch","hasPriceAdditionInfo":false,"data":[{"value":397003,"description":"512 GB","displayInfo":"512 GB"},{"value":397002,"description":"256 GB","displayInfo":"256 GB"}]},{"name":410,"description":"Memory","style":"Swatch","hasPriceAdditionInfo":false,"data":[{"value":127987,"description":"16 GB","displayInfo":"16 GB"},{"value":46027,"description":"8 GB","displayInfo":"8 GB"}]}],
+        availableMap: [{"info":{"item":"N82E16834155243","vehicle":null,"itemNumber4BuildUrl":"N82E16834155243","urlKeywords":"black-msi-gl-series-gl73-9sc-028-gaming-entertainment"},"map":[{"name":393,"value":1286892},{"name":394,"value":1286891},{"name":402,"value":1283483},{"name":403,"value":312579},{"name":35120,"value":397003},{"name":410,"value":46027}]},{"info":{"item":"N82E16834155245","vehicle":null,"itemNumber4BuildUrl":"N82E16834155245","urlKeywords":"black-msi-gl-series-gl73-9rcx-030-gaming-entertainment"},"map":[{"name":393,"value":1286892},{"name":394,"value":1286891},{"name":402,"value":1247663},{"name":403,"value":312579},{"name":35120,"value":397002},{"name":410,"value":46027}]},{"info":{"item":"N82E16834155239","vehicle":null,"itemNumber4BuildUrl":"N82E16834155239","urlKeywords":"black-msi-gl-series-gl73-9sek-411-gaming-entertainment"},"map":[{"name":393,"value":1277883},{"name":394,"value":1285602},{"name":402,"value":1280928},{"name":403,"value":459385},{"name":35120,"value":397003},{"name":410,"value":127987}]},{"info":{"item":"N82E16834155244","vehicle":null,"itemNumber4BuildUrl":"N82E16834155244","urlKeywords":"black-msi-gl-series-gl73-9rcx-029-gaming-entertainment"},"map":[{"name":393,"value":1277883},{"name":394,"value":1285602},{"name":402,"value":1247663},{"name":403,"value":312579},{"name":35120,"value":397002},{"name":410,"value":46027}]},{"info":{"item":"N82E16834155240","vehicle":null,"itemNumber4BuildUrl":"N82E16834155240","urlKeywords":"black-msi-gl-series-gl73-9sdk-413-gaming-entertainment"},"map":[{"name":393,"value":1277883},{"name":394,"value":1285602},{"name":402,"value":1283481},{"name":403,"value":459385},{"name":35120,"value":397003},{"name":410,"value":127987}]},{"info":{"item":"N82E16834155241","vehicle":null,"itemNumber4BuildUrl":"N82E16834155241","urlKeywords":"black-msi-gl-series-gl73-9sd-409-gaming-entertainment"},"map":[{"name":393,"value":1277883},{"name":394,"value":1285602},{"name":402,"value":1283481},{"name":403,"value":459385},{"name":35120,"value":397002},{"name":410,"value":46027}]},{"info":{"item":"N82E16834155242","vehicle":null,"itemNumber4BuildUrl":"N82E16834155242","urlKeywords":"black-msi-gl-series-gl73-9sc-027-gaming-entertainment"},"map":[{"name":393,"value":1277883},{"name":394,"value":1285602},{"name":402,"value":1283483},{"name":403,"value":312579},{"name":35120,"value":397003},{"name":410,"value":127987}]}],
+        selectedProperties: [{"name":393,"value":1286892},{"name":394,"value":1286891},{"name":402,"value":1247663},{"name":403,"value":312579},{"name":35120,"value":397002},{"name":410,"value":46027}]
+        };
+
+    
+
+</script>
+<div id="landingpage-property" tracking-module="Properties"></div>
+<fieldset class="special-offers" id="autoAddComboGiftContent" style="display: none;"></fieldset>
+<div class="grpBullet">
+<ul class="itemColumn">
+<li class="item">
+                            GeForce GTX 1050 Ti 4 GB GDDR5
+                        </li>
+<li class="item">
+                            Intel Core i5 9th Gen 9300H (2.40 GHz)
+                        </li>
+<li class="item">
+                            8 GB Memory 256 GB NVMe SSD
+                        </li>
+<li class="item">
+                            17.3" 1920 x 1080
+                        </li>
+<li class="item">
+                            16.49" x 11.29" x 1.25" 5.95 lbs.
+                        </li>
+<li class="item">
+                            1 x Mini DisplayPort 1 x HDMI (4K @ 60Hz)
+                        </li>
+<li class="item">
+                            1 x USB 3.2 Gen 2 Type-C
+                        </li>
+<li class="item">
+                            3 x USB 3.2 Gen 1
+                        </li>
+</ul>
+</div>
+<p>
+</p>
+<div class="newer-version" id="newerversion" style="display:none;"></div>
+<script type="text/javascript">Biz.Product.AutoAddComboAndFamilyTree.LoadAutoAddComboAndFamilyTree('34-155-245');</script>
+</div>
+</div>
+<span class="clear"></span>
+</div>
+<div id="buying-combo" tracking-module="Personalization - Combo" tracking-prefix="data-t">
+</div>
+<div class="container" id="PersSimilarItem"></div>
+<div class="loader" id="personalizationLoader">
+<img alt="LOADING..." src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/loading16.gif">
+    LOADING...
+</img></div>
+<a id="scrollFullInfo" name="scrollFullInfo"></a>
+<div class="fullInfo" id="fullInfo">
+<div id="mini-features" tracking-module="Mini Feature">
+<div class="mini-features-inner fix">
+<div class="mini-features-cta pull-right" id="landingpage-mini-features-cart"></div>
+<div id="landingpage-mini-features-price"></div>
+<div class="mini-features-wrap fix">
+<div class="mini-features-image">
+<!-- todo: mini feature image link -->
+<a href="javascript:void(0)" name="view detail"><img (2.40="" 10="" 1050="" 256="" 60="" 64-bit="" 8="" 9300h="" 9th="" alt="MSI GL Series GL73 9RCX-030 17.3" core="" gaming="" gb="" geforce="" gen="" ghz)="" gtx="" home="" hz="" i5="" intel="" laptop"="" memory="" nvidia="" nvme="" src="//c1.neweggimages.com/ProductImageCompressAll/34-155-245-V19.jpg" ssd="" ti="" windows=""/></a>
+</div>
+<div class="mini-features-content">
+<div class="mini-features-desc" data-t-e-var78="$ - Description" data-t-events="A"><a href="#">MSI GL Series GL73 9RCX-030 17.3" 60 Hz Intel Core i5 9th Gen 9300H (2.40 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop</a></div>
+<div class="mini-features-info">
+<span class="note-inventory">
+<span id="landingpage-mini-features-stock"></span>
+<span>
+                                Ships from United States. 
+                            </span>
+</span>
+</div>
+</div>
+</div>
+<div class="tab-content">
+<div class="tab-nav fix">
+<div class="back-to-top" data-t-e-var78="$ - Back To Top" data-t-events="A">
+<a href="#">
+<i class="fa fa-arrow-up"></i>
+<span>Back To Top</span>
+</a>
+</div>
+<ul>
+<li class="is-active" data-t-e-var78="$ - Tabs:Overview" data-t-events="A" style="">
+<a href="#fullInfo"><span>Overview</span></a>
+</li>
+<li class="" data-t-e-var78="$ - Tabs:Specifications" data-t-events="A" style="">
+<a href="javascript:void(0);"><span>Specifications</span></a>
+</li>
+<li class="" data-t-e-var78="$ - Tabs:Warranty &amp; Returns" data-t-events="A"><a href="javascript:void(0);"><span>Warranty &amp; Returns</span></a></li>
+<li class="" data-t-e-var78="$ - Tabs:Reviews" data-t-events="A" id="miniFeatureReviewTab" style=""><a href="javascript:void(0);"><span>Reviews</span></a></li>
+<li data-t-e-var78="$ - Tabs:Q&amp;A" data-t-events="A" id="mini-features-Customer-QA" style="display:none;"><a href="javascript:void(0);"><span>Q&amp;A</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    NEG.run(function (require) {
+        var Minifuture = require("Biz.Product.MiniFeatures");
+        Minifuture({});
+    });
+</script>
+<div class="rn-navSections fix">
+<ul id="tabSections">
+<li class="active" data-t-e-var78="TAB - Overview" data-t-events="A" id="Overview_Tab" style="">
+<span>Overview</span>
+</li>
+<li class="inactive" data-t-e-var78="TAB - Specifications" data-t-events="A" id="Details_Tab" style="">
+<span>Specifications</span>
+</li>
+<li class="inactive" data-t-e-var78="TAB - Warranty &amp; Returns" data-t-events="A" id="Warranty_Tab"><span>Warranty &amp; Returns</span></li>
+<li class="inactive" data-t-e-var78="TAB - Reviews" data-t-events="A" id="Community_Tab" style=""><span>Reviews</span></li>
+<li class="inactive" data-t-e-var78="TAB - Q&amp;A" data-t-events="A" id="Customer-QA_Tab" style="display:none;"><span>Q&amp;A</span></li>
+</ul>
+</div>
+<div class="rn-boxContent">
+<div class="grpContent Overview_Content active" id="Overview_Content">
+<div class="itmDesc" id="introduction">
+<style type="text/css">
+#overview-content .a-plus-content:before,
+#overview-content .a-plus-content:after,
+#overview-content .a-plus-group:before,
+#overview-content .a-plus-group:after,
+#overview-content .a-plus-module:before,
+#overview-content .a-plus-module:after,
+#overview-content .a-plus-info:after {
+         content: '';
+         display: table;
+         clear: both;
+}
+#overview-content .a-plus-content {
+         font:14px arial,helvetica,sans-serif;
+         line-height: 1.4285em;
+		 color:#fff;
+		 background:#000;
+}
+#overview-content .a-plus-module {
+         position: relative;
+         margin: 3em 0;
+         padding: 0;
+         overflow: hidden;
+}
+#overview-content .a-plus-img {
+         margin: 0 auto;
+         padding: 0;
+}
+#overview-content .a-plus-img img {
+         display: block;
+         margin: auto;
+         max-width: 100%;
+}
+#overview-content .a-plus-img + .a-plus-info { margin: 1em 0 0 0;  }
+#overview-content .a-plus-title {
+         display: block;
+         margin: 1em 0 0.5em 0;
+         overflow: hidden;
+         font-weight: bold;
+         font-size: 2em;
+		 line-height:1.4em;
+		 color:#fff;
+}
+#overview-content .a-plus-title2 {
+         margin: 0.5em 0 ;
+         overflow: hidden;
+         font-weight: normal;
+		 color:#fff
+}
+#overview-content .a-plus-info p {
+         display: block;
+         margin: 0.5em 0;         
+}
+
+#overview-content .a-plus-info ul,
+#overview-content .a-plus-info ol { margin: 1em 0; }
+#overview-content .a-plus-info ul {
+         list-style-type: disc!important;
+         list-style-position: inside!important;
+         padding-left: 25px;
+}
+#overview-content .a-plus-info li { margin-bottom: 0.8em; }
+#overview-content .a-plus-info li:last-child { margin-bottom: 0; }
+
+#overview-content .a-plus-module:first-child,
+#overview-content .a-plus-title:first-child,
+#overview-content .a-plus-info p:first-child {  }
+#overview-content .a-plus-module:last-child,
+#overview-content .a-plus-title:last-child { }
+#overview-content .a-plus-info p:last-child {}
+#overview-content .a-plus-module.txt-align-center { text-align: center; }
+
+#overview-content .a-plus-group { margin: 3em 0; }
+#overview-content .a-plus-group:first-child { margin-top: 0; }
+#overview-content .a-plus-group:last-child { margin-bottom: 0; }
+
+#overview-content .logo {
+	width:100%; 
+	height:50px; 
+	margin-bottom:30px; 
+	background:url(//images10.newegg.com/BizIntell/item/34/155/34-155-245/logo_071619.png) no-repeat left center;
+	}
+#overview-content .colorWhite {color:#ffffff}
+#overview-content .colorGray {color:#888}
+#overview-content .colorGreen {color:#76b801}
+#overview-content .colorBlue {color:#066db2}
+#overview-content .bgWhite {background-color:#f4f4f4; color:#000;padding:20px}
+#overview-content .bgGray {background-color:#f5f3f4;}
+#overview-content .fontSmaller {font-size:smaller}
+#overview-content .fontLarger {font-size:1.6em;font-weight:bold;}
+#overview-content .l-left {text-align:left}
+#overview-content .l-right {text-align:right}
+#overview-content .l-center {text-align:center}
+#overview-content .floatRight {float:right}
+#overview-content .floatLeft {float:left}
+#overview-content .width50 {width:50%}
+#overview-content .padding10 {padding: 0 10%}
+#overview-content .border1 { position:relative;  padding:10px}
+#overview-content .border1:after {     
+         background: currentColor;
+		content: "";
+		display: block;
+		height: 2px;
+		position: relative;
+		bottom:-10px;
+		width: 100px;
+		margin: 0 auto;
+		}
+
+
+@media (min-width: 768px) {
+         #overview-content .a-plus-module.img-is-small .a-plus-img { width: 100px; }
+         #overview-content .a-plus-module.img-is-large .a-plus-img {  max-width:450px;   }
+         
+         #overview-content .a-plus-module.img-at-left .a-plus-img { float: left; }
+         #overview-content .a-plus-module.img-at-right .a-plus-img { float: right; }
+         
+         #overview-content .a-plus-module.img-is-small.img-at-left .a-plus-img img,
+         #overview-content .a-plus-module.img-is-small.img-at-right .a-plus-img img { width: 110px; }
+         #overview-content .a-plus-module.img-is-large.img-at-left .a-plus-img img,
+         #overview-content .a-plus-module.img-is-large.img-at-right .a-plus-img img {  max-width:450px;  }
+         
+        #overview-content  .a-plus-module.img-is-small.img-at-left .a-plus-img + .a-plus-info { margin: 5px }
+         #overview-content .a-plus-module.img-is-small.img-at-right .a-plus-img + .a-plus-info { margin: 5px}
+         #overview-content .a-plus-module.img-is-large.img-at-left .a-plus-img + .a-plus-info { margin: 0 0 0 405px;}
+         #overview-content .a-plus-module.img-is-large.img-at-right .a-plus-img + .a-plus-info { margin: 0 405px 0 0; }
+         
+         /* layout */
+         #overview-content .a-plus-cell { float: left; }
+         #overview-content .a-plus-cell .a-plus-module.img-is-large.img-at-left .a-plus-img,
+         #overview-content .a-plus-cell .a-plus-module.img-is-large.img-at-right .a-plus-img { width: 30%; }
+         #overview-content .a-plus-cell .a-plus-module.img-is-large.img-at-left .a-plus-img + .a-plus-info { margin-left: calc(30% + 32px); }
+         #overview-content .a-plus-cell .a-plus-module.img-is-large.img-at-right .a-plus-img + .a-plus-info { margin-right: calc(30% + 32px); }
+         
+         /* 2 columns */
+         #overview-content .a-plus-group.two-columns .a-plus-cell { width: calc(50% - 30px); text-align:left }
+         #overview-content .a-plus-group.two-columns .a-plus-cell:first-child { margin-right: 60px; }
+		 #overview-content .a-plus-group.two-columns .a-plus-cell .a-plus-img {float:left;padding:5px}
+         
+         /* 3 columns */
+         #overview-content .a-plus-group.three-columns .a-plus-cell { width: calc(33.3% - 40px); margin-left: 60px;}
+         #overview-content .a-plus-group.three-columns .a-plus-cell:first-child { margin-left: 0; }
+         
+         /* 4 columns */
+         #overview-content .a-plus-group.four-columns .a-plus-cell {
+                   margin-left: 60px;
+                   width: calc(25% - (180px / 4));
+         }
+		 /* 5 columns */
+		 #overview-content .a-plus-group.five-columns .a-plus-cell {
+					width:calc(20%);
+		 }
+		 
+         #overview-content .a-plus-group.four-columns .a-plus-cell:first-child { margin-left: 0; }
+		 #overview-content .features3 {background:url(//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-3_071619.jpg) center center no-repeat; width:100%; height:450px}
+		 #overview-content .features8 {background:url(//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-8_071619.jpg) center center no-repeat; width:100%; height:613px}
+
+}
+
+@media (max-width: 767px) {
+         #overview-content .a-plus-group .a-plus-cell { margin: 3em 0; }
+         #overview-content .a-plus-group .a-plus-cell:first-child { margin-top: 0; }
+         #overview-content .a-plus-group .a-plus-cell:last-child { margin-bottom: 0; }
+         
+         #overview-content .padding335 {padding:0}
+         #overview-content .padding110 {padding:0}
+		 
+		 #overview-content .a-plus-title {
+         display: block;
+         margin: 1em 0 1em 0;
+         overflow: hidden;
+         font-weight: bold;
+         font-size: 1.3em;
+		 line-height:1.5em;
+		}
+		#overview-content .width50 {width:100%}
+		#overview-content .padding10 {padding:0 3px}
+		 #overview-content .features2 {background:url(//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-2_071619.jpg) center center no-repeat; width:100%; }
+		 #overview-content .features8 {background:url(//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-8_071619.jpg) center center no-repeat; width:100%; background-size:cover; min-height:300px }
+		#overview-content  .l-center {text-align:left}
+}
+</style>
+<div class="sku-34-155-245" id="overview-content">
+<article class="a-plus-content">
+<div class="logo"></div>
+<div class="a-plus-module">
+<div class="a-plus-info">
+<div class="a-plus-img">
+<img alt="MSI Gigabyte GL73 Gaming Laptop Slightly Open, Angled Away to the Right, Next to an Electrified Red-Eyes, Metal-Skinned Dragon and Text That Reads: GL73 - THE GAME JUST GOT REAL" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-1_071619.jpg"/>
+</div>
+</div>
+</div>
+<div style=" width:98%; margin:1em auto 2em auto;">
+<p style="font-weight:bold; font-size:1.3em;">
+MSI GL73 9RCX-030 Gaming Laptop
+		</p>
+<p>
+	Power-packed with 9th generation Intel Core i5 9300H processor (quad cores, eigth threads), generous amount of RAM and gaming-class GeForce GTX 1050 Ti 4 GB graphics card, this is a solid gaming laptop that meets various gaming and entertainment needs, whether at home or on the go. It also incorporates a precision-built backlit keyboard by SteelSeries, perfectly tuned Giant Speakers, and Nahimic 3 virtual surround sound technology, which come together to bring you an elevated gaming and media experience. Plus, all these come in a meticulously crafted housing with red accent, which gives the GL73 a professional and aggressive look that stand outs immediately.
+		</p>
+</div>
+<div class="a-plus-module">
+<div class="a-plus-info padding10">
+<div class="a-plus-img">
+<img alt="Intel Core i7 9th Gen Badge on a Lit-Up Stylized Chipset" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-3_2_071619.jpg"/>
+</div>
+<div class="a-plus-title l-center">DOMINATE ALL WITH HIGHER CLOCK SPEED
+                                     </div>
+<p class="l-center">Latest 9th Intel® Core™ i7 processor powers up with 10% performance gains over the previous generation. </p>
+<p class="l-center colorGray fontSmaller">*Optional. Performance compared to previous gen i7.</p>
+</div>
+<div class="a-plus-group two-columns width50" style="margin:0 auto;">
+<div class="a-plus-cell">
+<div class="a-plus-title2 colorBlue l-center"><span class="fontLarger">6</span> <br>Cores 
+																 </br></div>
+</div>
+<div class="a-plus-cell">
+<div class="a-plus-title2 colorBlue l-center"><span class="fontLarger">+10% </span><br/>Performance 
+																 </div>
+</div>
+</div>
+</div>
+<div class="a-plus-module">
+<div class="a-plus-img">
+<img alt="NVIDIA GEFORCE GTX Badge" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-2_1_071619.png"/>
+</div>
+<div class="a-plus-info padding10">
+<div class="a-plus-title l-center colorGreen">GAME READY
+													 </div>
+<p class="l-center colorWhite"><strong>GEFORCE® GTX 10 Series</strong></p>
+<p class="l-center colorWhite">This is the ultimate gaming experience, fueled by the fastest performance, most advanced gaming technologies and best gaming ecosystem.</p>
+<div class="a-plus-title l-center colorGreen">PERFORMANCE
+													 </div>
+<p class="l-center colorWhite">GeForce GTX 10-Series GPUs give you up to 3X the performance of previous-generation GPUs. They're built with ultra-fast FinFET, the latest high-bandwidth memory technologies and support for DirectX 12 features to deliver the fastest, smoothest gaming notebook experiences.</p>
+</div>
+</div>
+<div class="a-plus-module">
+<div class="a-plus-img">
+<img alt="Two Gigabyte GL73 Gaming Laptops, the Per-Key RGB Keyboard Backlight Version is Open Angled to the Left with the MSI logo as its screenfill and the red backlight keyboard version is slightly open, angled away to the right" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-5_071619.jpg"/>
+</div>
+<div class="a-plus-info padding10">
+<div class="a-plus-title l-center">POPULAR DESIGN NOW COMES IN COLORS
+                                     </div>
+</div>
+</div>
+<div class="a-plus-module">
+<div class="a-plus-img">
+<img alt="Graphic of shapes making two speaker cones in between stylized text that reads: 5X BIGGER" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-13_071619.jpg"/>
+</div>
+<div class="a-plus-info padding10">
+<div class="a-plus-title l-center">5 TIMES BIGGER THAN OTHERS LOUDER SOUND, MORE RESONANCE AND HIGHER QUALITY
+                                     </div>
+<p class="l-center">Gamers can feel every engine sound roaring past with the upgraded giant speakers. Exclusive audio module design and independent sound chamber for top-notch auditory sensation. </p>
+</div>
+</div>
+<div class="a-plus-module">
+<div class="a-plus-img">
+<img alt="Gigabyte GL73 Gaming Laptop's Screen Split Showing a Hooded Sorceror with Fire in His Gauntleted Hand, the left the screen shows a blurry standard panel quality while the right half shows crisp and clear 120Hz" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-6_071619.jpg"/>
+</div>
+<div class="a-plus-info padding10">
+<div class="a-plus-title l-center">WIN BY A MILLISECOND FASTER (OPTIONAL)
+                                     </div>
+<p class="l-center">See every detail during chaotic gameplays. By displaying 120 picture frames per second, we bring you the most vibrant visuals for the ultimate entertainment pleasure.  </p>
+<p class="l-center colorGray fontSmaller">*This feature may vary by SKU and country.  </p>
+</div>
+</div>
+<div class="a-plus-module">
+<div class="a-plus-img">
+<img alt="Gigabyte GL73 Gaming Laptop Open, Facing Forward with the MSI Logo as Its Screenfill, to the left and right of the laptop are monitors angled towards the laptop. The left monitor shows a twitch stream with the streamer playing Reaper from Overwatch, the right monitor shows the actual Overwatch gameplay" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-8_071619.jpg"/>
+</div>
+<div class="a-plus-info padding10">
+<div class="a-plus-title l-center">MATRIX DISPLAY MULTI-TASK WITH UP TO 3 MONITORS
+                                     </div>
+<p class="l-center">Expand your vision across multiple display with HDMI and mini DisplayPort, and enjoy up to 4K (3840x2160) resolution output at 60Hz for some extra productivity and fun. </p>
+</div>
+</div>
+<div class="a-plus-module">
+<div class="a-plus-img">
+<img alt="Gigabyte GL73 Gaming Laptop's Cooling System" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-10_071619.jpg"/>
+<img alt="Cooler Boost 5 Logo" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-10_2_071619.png"/>
+</div>
+<div class="a-plus-info padding10">
+<div class="a-plus-title l-center">REVOLUTIONARY COOLING FOR ENTHUSIASTIC GAMING
+                                     </div>
+<p class="l-center">Dedicated thermal solutions for both the CPU and GPU with a total of 7 heat pipes ensure maximum performance under extreme gaming. </p>
+</div>
+</div>
+<div class="a-plus-module">
+<div class="a-plus-img">
+<img alt="Gigabyte GL73 Gaming Laptop Open and Facing Forward with the LORDS MOBILE game title screen as the screenfill" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-11_071619.png"/>
+</div>
+<div class="a-plus-info padding10">
+<div class="a-plus-title l-center">MSI APP PLAYER
+                                     </div>
+<p class="l-center">Developed under an exclusive partnership with BlueStacks, the MSI APP Player brings seamless gaming experience between mobile games and PC platform, and leverages customized features as specific keyboard lighting and better graphics with multi-task works. </p>
+</div>
+</div>
+<div class="a-plus-module">
+<div class="a-plus-img">
+<img alt="MSI Dragon Center Software Window" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-12_071619.jpg"/>
+</div>
+<div class="a-plus-info padding10">
+<div class="a-plus-title l-center">DRAGON CENTER 2.0 
+                                     </div>
+<p class="l-center">Monitor and optimize through various customization and freeing system memories to prioritize in-game performance. </p>
+<p class="l-center colorGray fontSmaller">*Actual feature may vary by model and configuration.  </p>
+</div>
+</div>
+<div class="a-plus-module">
+<div class="a-plus-img">
+<img alt="Killer Ethernet Logo" src="//images10.newegg.com/BizIntell/item/34/155/34-155-245/features-layout-14_071619.jpg"/>
+</div>
+<div class="a-plus-info padding10">
+<div class="a-plus-title l-center">KILLER™ GAMING LAN—PROTECTING YOUR PING
+                                     </div>
+<p class="l-center">Stop losing games to lag with Killer Gaming LAN. Protect and prioritize networking traffic while preventing lag spikes to always game at your best. Gamers can easily manage bandwidth for each application with the user-friendly Killer Control Center. </p>
+</div>
+</div>
+</article>
+</div>
+<span class="clearL"></span>
+</div>
+<div id="pcraOverview"></div>
+<br class="clearL"/>
+</div>
+<div data-neg-popid="SpecsPopup_content" id="def_colorPopup_Content" style="display: none;"></div>
+<div data-neg-title="SpecsPopup_title" id="def_colorPopup_Title" style="display: none;"></div>
+<div class="grpContent Details_Content inactive" id="Details_Content">
+<a id="scrollSpecs_Details" name="scrollSpecs"></a>
+<div id="detailSpecContent">
+<h2 class="sectionTitle">Learn more about the <span>MSI GL73 9RCX-030</span></h2>
+<div class="plinks" id="Specs">
+<fieldset><h3 class="specTitle">Model</h3><legend style="display:none;">|</legend><dl><dt>Brand</dt><dd>MSI</dd></dl><dl><dt>Series</dt><dd>GL Series</dd></dl><dl><dt>Model</dt><dd>GL73 9RCX-030</dd></dl></fieldset><fieldset><h3 class="specTitle">Quick Info</h3><legend style="display:none;">|</legend><dl><dt>Color</dt><dd>Black</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Operating System" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__2787" name="def-color">Operating System</a></dt><dd>Windows 10 Home 64-bit</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:CPU" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__2774" name="def-color">CPU</a></dt><dd>Intel Core i5-9300H 2.40 GHz</dd></dl><dl><dt>Screen</dt><dd>17.3"</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Memory" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__2775" name="def-color">Memory</a></dt><dd>8 GB DDR4</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Storage" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__2779" name="def-color">Storage</a></dt><dd>512 GB NVMe SSD</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Graphics Card" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__2777" name="def-color">Graphics Card</a></dt><dd>GeForce GTX 1050 Ti</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Video Memory" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__2778" name="def-color">Video Memory</a></dt><dd>4 GB GDDR5</dd></dl><dl><dt>Communication</dt><dd>Gigabit LAN and WLAN</dd></dl><dl><dt>Dimensions (W x D x H)</dt><dd>16.49" x 11.29" x 1.25"</dd></dl><dl><dt>Weight</dt><dd>5.95 lbs.</dd></dl></fieldset><fieldset><h3 class="specTitle">CPU</h3><legend style="display:none;">|</legend><dl><dt>CPU Type</dt><dd>Intel Core i5 9th Gen</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:CPU Speed" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__394" name="def-color">CPU Speed</a></dt><dd>9300H (2.40 GHz)</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Number of Cores" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__37494" name="def-color">Number of Cores</a></dt><dd>Quad-core Processor</dd></dl><dl><dt>Core Name</dt><dd>Coffee Lake</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Turbo Frequency" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__37563" name="def-color">Turbo Frequency</a></dt><dd>Up to 4.10 GHz</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:CPU L3 Cache" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__37564" name="def-color">CPU L3 Cache</a></dt><dd>8 MB</dd></dl></fieldset><fieldset><h3 class="specTitle">Chipset</h3><legend style="display:none;">|</legend><dl><dt>Chipset</dt><dd>Intel HM370</dd></dl></fieldset><fieldset><h3 class="specTitle">Display</h3><legend style="display:none;">|</legend><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Screen Size" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__398" name="def-color">Screen Size</a></dt><dd>17.3"</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Touchscreen" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__34568" name="def-color">Touchscreen</a></dt><dd>No</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Wide Screen Support" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__3021" name="def-color">Wide Screen Support</a></dt><dd>Yes</dd></dl><dl><dt>Display Type</dt><dd>Full HD</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Resolution" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__400" name="def-color">Resolution</a></dt><dd>1920 x 1080</dd></dl><dl><dt>Refresh Rate</dt><dd>60 Hz</dd></dl></fieldset><fieldset><h3 class="specTitle">Operating Systems</h3><legend style="display:none;">|</legend><dl><dt>Operating System</dt><dd>Windows 10 Home 64-bit</dd></dl></fieldset><fieldset><h3 class="specTitle">Graphics</h3><legend style="display:none;">|</legend><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:GPU/VPU" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__402" name="def-color">GPU/VPU</a></dt><dd>NVIDIA GeForce GTX 1050 Ti</dd></dl><dl><dt>Video Memory</dt><dd>4 GB</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Graphic Type" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__2923" name="def-color">Graphic Type</a></dt><dd>Dedicated Card</dd></dl></fieldset><fieldset><h3 class="specTitle">Storage</h3><legend style="display:none;">|</legend><dl><dt>SSD</dt><dd>256 GB NVMe</dd></dl></fieldset><fieldset><h3 class="specTitle">Memory</h3><legend style="display:none;">|</legend><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Memory" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__410" name="def-color">Memory</a></dt><dd>8 GB</dd></dl><dl><dt>Memory Speed</dt><dd>DDR4 2666</dd></dl><dl><dt>Memory Spec</dt><dd>8 GB x 1</dd></dl><dl><dt>Memory Slot (Total)</dt><dd>2</dd></dl><dl><dt>Memory Slot (Available)</dt><dd>1</dd></dl><dl><dt>Max Memory Supported</dt><dd>64 GB</dd></dl></fieldset><fieldset><h3 class="specTitle">Communications</h3><legend style="display:none;">|</legend><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:LAN" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__423" name="def-color">LAN</a></dt><dd>Killer Gaming Network E2400</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:WLAN" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__424" name="def-color">WLAN</a></dt><dd>Intel 9560 Jefferson Peak (2x2 802.11ac)</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Bluetooth" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__425" name="def-color">Bluetooth</a></dt><dd>Bluetooth 5.0</dd></dl></fieldset><fieldset><h3 class="specTitle">Ports</h3><legend style="display:none;">|</legend><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:USB" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__431" name="def-color">USB</a></dt><dd>1 x USB 3.2 Gen 2 Type-C <br/>3 x USB 3.2 Gen 1</dd></dl><dl><dt>Video Port</dt><dd>1 x Mini DisplayPort</dd></dl><dl><dt>HDMI</dt><dd>1 x HDMI (4K @ 60Hz)</dd></dl><dl><dt>Audio Ports</dt><dd>Headset AMP + Gold Flash jacks</dd></dl></fieldset><fieldset><h3 class="specTitle">Audio</h3><legend style="display:none;">|</legend><dl><dt>Speaker</dt><dd>Giant Speakers 3W x 2</dd></dl></fieldset><fieldset><h3 class="specTitle">Input Device</h3><legend style="display:none;">|</legend><dl><dt>Touchpad</dt><dd>Multi Touch</dd></dl><dl><dt>Keyboard</dt><dd>Steel Series Single backlight with Anti-Ghost key + silver lining</dd></dl><dl><dt>Backlit Keyboard</dt><dd>Backlit</dd></dl><dl><dt><a class="specs-popup" data-neg-popid="SpecsPopup" data-t-e-var78="Specification Popup:Webcam" data-t-events="A" href="javascript:void(0);" id="def_colorPopup__443" name="def-color">Webcam</a></dt><dd>720p HD Webcam</dd></dl><dl><dt>Card Reader</dt><dd>SD (XC / HC)</dd></dl></fieldset><fieldset><h3 class="specTitle">General</h3><legend style="display:none;">|</legend><dl><dt>Style</dt><dd>Standard</dd></dl><dl><dt>Type</dt><dd>Gaming &amp; Entertainment</dd></dl><dl><dt>Usage</dt><dd>Consumer</dd></dl></fieldset><fieldset><h3 class="specTitle">Power</h3><legend style="display:none;">|</legend><dl><dt>AC Adapter</dt><dd>150-watt AC adapter</dd></dl><dl><dt>Battery</dt><dd>6-cell (51 Wh) Li-Ion</dd></dl></fieldset><fieldset><h3 class="specTitle">Dimensions &amp; Weight</h3><legend style="display:none;">|</legend><dl><dt>Dimensions (W x D x H)</dt><dd>16.49" x 11.29" x 1.25"</dd></dl><dl><dt>Weight</dt><dd>5.95 lbs.</dd></dl></fieldset>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        Biz.Product.Product2016.LoadPopup('.specs-popup');
+</script>
+<div class="rn-boxContent-full inactive" id="Warranty_Content" tracking-module="Warranty">
+<div class="rn-boxContent-title">Warranty, Returns, And Additional Information</div>
+<div class="column">
+<div class="quick-info">
+<ul>
+<li class="rn-boxContent-2colInfo-title">Warranty</li>
+<li>Limited Warranty period (parts): 1 year</li>
+<li>Limited Warranty period (labor): 1 year</li>
+<li><a data-t-e-var78="$ - Read Full Details Link" data-t-events="A" href="https://kb.newegg.ca/Article/Index/12/2?id=1183#10004" target="_blank" title="Full details(new window)">Read full details</a></li>
+</ul>
+</div>
+<div class="quick-info" id="MfrContact">
+<ul>
+<li class="rn-boxContent-2colInfo-title">Manufacturer Contact Info</li>
+<li><a href="https://us.msi.com/" target="_blank" title="Manufacturer Product Page(new window)">Manufacturer Product Page</a><span style="display: none;">|</span></li>
+<li>Website: <a href="https://us.msi.com/" target="_blank" title="View Manufacturer Website(new window)">https://us.msi.com/</a><span style="display: none;">|</span></li>
+<li>Support Phone: 1-888-447-6564</li>
+<li><a data-t-e-var78="$ - Support Website Link:https://us.msi.com/support/" data-t-events="A" href="https://us.msi.com/support/" target="_blank" title="Support Website(new window)">Support Website</a><span style="display: none;">|</span></li>
+<li><a data-t-e-var78="$ - View other Products Link:https://www.newegg.ca/MSI/BrandStore/ID-1312" data-t-events="A" href="https://www.newegg.ca/MSI/BrandStore/ID-1312">View other products from MSI</a></li>
+</ul>
+</div>
+</div>
+<div class="column">
+<div class="quick-info" id="ReturnPolicyContent2015">
+<ul>
+<li class="rn-boxContent-2colInfo-title">Return Policies</li>
+<li><ul class="bullet"> <li>Return for refund within: 30 days</li> <li>Return for replacement within: 30 days</li> </ul></li>
+<li>This item is covered by Newegg.ca's <a data-t-e-var78="$ - Standard Newegg Return Policy Link" data-t-events="A" href="https://kb.newegg.ca/Article/Index/12/2?id=1183#10044" target="_blank" title="Return Policy(new window)">Standard Return Policy</a>.</li>
+</ul>
+</div>
+</div>
+<div id="extendedWarrantyOption">
+</div>
+</div>
+<div class="grpContent Community_Content inactive" id="Community_Content" tracking-module="Reviews">
+<script type="text/javascript">
+                        var isSwitchedProductReviewTab = false;
+                        function switchProductReviewTab() {
+                            if (isSwitchedProductReviewTab != true) {
+                                isSwitchedProductReviewTab = true;
+                                var content = "<div style= 'text-align: center;margin-bottom:40px;display:block' class='loader'> <img alt='ICON' style='vertical-align:middle;' src='//c1.neweggimages.com/WebResource/Themes/2005/Nest/loading16.gif' /> Loading...</div>";
+                                jQuery("#Community_Content").html(content);
+                                Biz.Product.ProductReview.switchReviewTab('&Item=34-155-245&review=0&SummaryType=0&Pagesize=25&PurchaseMark=false&SelectedRating=-1&VideoOnlyMark=false&VendorMark=false&IsFeedbackTab=true&ItemGroupId=87340739&Type=Seller&ItemOnlyMark=false&chkItemOnlyMark=off&Keywords=(keywords)&SortField=0&DisplaySpecificReview=1', '2017');
+                            }
+                        }
+                        var isSwitchTab = Biz.Product.ProductReview.getUrlParam("IsFeedbackTab") != null && Biz.Product.ProductReview.getUrlParam("IsFeedbackTab").toLowerCase() == "true";
+                        if (isSwitchTab) {
+                            switchProductReviewTab();
+                        } else {
+                            Biz.ProductReview2017.SyncLoad.isSyncLoad = true;
+
+                            jQuery("#Community_Tab").bind("click", switchProductReviewTab);
+                            jQuery(".grpArticle .grpRating:first > .itmRating").bind("click", switchProductReviewTab);
+                            jQuery("#miniFeatureReviewTab").bind("click", switchProductReviewTab);
+                        }
+                    </script>
+</div>
+<div data-neg-popid="eggxpertReviews_content" id="eggxpertReviews_Content" style="display: none;">
+        Through the Newegg EggXpert Review Program, Newegg invites its best reviewers, known as EggXperts, to post opinions about new and pre-release products to help their fellow customers make informed buying decisions.<a class="borderbottom" href="https://kb.newegg.com/Article/Index/12/3?id=1849"><span>Click here for more details.</span></a>
+</div>
+<div class="grpContent Customer-QA_Content inactive" id="Customer-QA_Content">
+<div id="QATabLoading"></div>
+<div id="TurnToContent">
+<div class="TT3ugc" style="background-color: white; width: 100%">
+</div>
+</div>
+</div>
+</div>
+<div class="grpOffers">
+<div class="grid3" id="bodyGrid">
+<div id="product_RelationItemInfo">
+</div>
+<div class="loader" style="text-align: center; ">
+<img alt="ICON" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/loading16.gif" style="vertical-align: middle;">
+            Loading...
+        </img></div>
+<input id="hiddenItemGroupId" name="hiddenItemGroupId" type="hidden" value="87340739">
+<input id="hiddenItemNumber" name="hiddenItemNumber" type="hidden" value="34-155-245">
+<input id="hiddenCanPreLaunch" name="hiddenCanPreLaunch" type="hidden" value="False">
+<div id="SimilarItemsContent"></div>
+</input></input></input></div>
+</div>
+</div>
+</div>
+</div>
+<div class="aside">
+<div id="landingpage-topshipping" tracking-module="Buy Box"></div>
+<div class="grpAction" id="continueProxy" style="display: none">
+<div class="grpOptions">
+<div class="grpPrimary">
+<div class="grpAction"><span class="normal genericProduct">Select options to continue.</span></div>
+</div>
+</div>
+</div>
+<div class="grpAction" id="continueReal">
+<div data-neg-popid="AskSellerPopup_content" style="display: none;"></div>
+<div class="grpOptions" tracking-module="Buy Box">
+<div id="landingpage-iron-egg"></div>
+<div class="grpPrimary" id="landingpage-price">
+</div>
+<div id="servicesContent" style="display: none;">
+</div>
+<script type="text/javascript">
+                    usingNamespace("Biz.Product")["CompareConfig"] = {
+                        baseQueryString: new Web.QueryStringBuilder(""),
+                        PageUrlAlias: {
+                            compare: "https://www.newegg.ca/Product/Productcompare"
+                        },
+                        compareItems: [],
+                        itemThumbs: []
+                    };
+                    Biz.Product.CompareConfig.compareItems.push("34-155-245");
+                    Biz.Product.CompareConfig.itemThumbs["34-155-245"] = "//c1.neweggimages.com/ProductImageCompressAll35/34-155-245-V19.jpg";
+                </script>
+<div id="landingpage-cart"></div>
+<ul class="grpSecondary">
+<li class="item-compare-box">
+<label class="btn form-checkbox">
+<input autocomplete="off" id="CompareItem_34-155-245" name="CompareItem" neg-itemnumber="34-155-245" type="checkbox" value="CompareItem_34-155-245"/>
+<span class="form-checkbox-title">Add to Compare</span>
+</label>
+</li>
+<li class="item-alert" id="landingpage-priceAlert"></li>
+<li class="item-wishlist" data-t-e-var78="$ - Add To Wish List" data-t-events="A">
+<a class="wishlist btn has-icon-left fa-heart open-popup" href="javascript:void(0)" id="AddToWishlist" title="Add to Wish List">Add to Wish List</a>
+<span class="item-wishlist-num">Found on <strong>2</strong> wish lists</span>
+<script>
+                    usingNamespace("Biz.WishListModule")["Config"] = {
+                        PageAliase: "ProductDetail",
+                        Lang: {
+                            AddToWishlist: "Add to Wish List",
+                            NewWishList: "New Wish List",
+                            Add: "ADD",
+                        },
+                        OldWishListLink: "https://secure.newegg.ca/WishList/WishCartPlus.aspx?Submit=ADDITEM2WISHLIST&Item=34-155-245&qty=1",
+                        EnableWishList2016: "True",
+                        ShowList: "True",
+                        IsLogin: "False",
+                        LoginLink: "https://secure.newegg.ca/NewMyAccount/AccountLogin.aspx?nextpage=https%3a%2f%2fwww.newegg.ca%2fp%2fN82E16834155245%3fItem%3dN82E16834155245%26cm_sp%3dHomepage_Dailydeal-_-P1_34-155-245-_-09072019",
+                        MyWishlistsLink: "https://secure.newegg.ca/WishList/MyWishlists"
+                    };
+
+                    var addItemInfo = {
+                        ItemNumber: "34-155-245",
+                        Description: "MSI GL Series GL73 9RCX-030 17.3&#34; 60 Hz Intel Core i5 9th Gen 9300H &#40;2.40 GHz&#41; NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 ...",
+                        ImageSrc: "//c1.neweggimages.com/NeweggImage/ProductImageCompressAll125/34-155-245-V19.jpg"
+                    };
+
+                    jQuery("#AddToWishlist").data("iteminfo", addItemInfo);
+                </script>
+<div class="centerPopup-source" id="AddToWishlist_Content"></div>
+</li>
+</ul>
+<div class="popover left popover-compare" id="compareListPopup">
+<i class="popover-arrow"></i>
+<div class="popover-title">Selected Items</div>
+<div class="popover-body">
+<div class="item-compare-list"></div>
+<input id="item_compare_list_tracking" type="hidden" value='data-t-events="A" data-t-e-var78="Buy Box - Compare Selected Remove:{itemNumber}" '>
+<div class="popover-btn-area">
+<button class="btn btn-mini btn-tertiary" data-t-e-var78="Buy Box - Compare Reset" data-t-events="A" id="compatereset" type="button">Reset</button>
+<button class="btn btn-mini btn-secondary" data-t-e-var78="Buy Box - Compare Start" data-t-events="A" id="gocompare" type="button">compare</button>
+</div>
+</input></div>
+</div>
+<form action="" id="compareform" method="post">
+<input id="CurrentUrl" name="CurrentUrl" type="hidden" value="">
+</input></form>
+<script type="text/javascript">
+                    NEG.run(function (require) {
+                        require("Biz.Product.StepperButton").init();
+                    });
+                    jQuery(document).ready(function () {
+                        var cfg = Biz.Product.CompareConfig;
+                        NEG.run(function (require) {
+                            var jQuery = require("NEG.ThirdParty.JQuery");
+                            var bizCompare = require("Biz.Product.Compare");
+                            var options = {
+                                goCompare: function () {
+                                    document.getElementById('CurrentUrl') && (document.getElementById('CurrentUrl').value = window.location);
+                                    var compareData = this.getCompareData();
+                                    var compareString = this.getCompareString(compareData);
+                                    var items = compareData.itemList;
+                                    var itempers = [];
+
+                                    cfg.baseQueryString.set("CompareItemList", compareString);
+                                    var citem = "";
+                                    var percm = "";
+                                    for (var mi = 0; mi < items.length; mi++) {
+                                        citem = items[mi];
+                                        if (citem != null && citem.length > 0) {
+                                            if (itempers[citem] != null && itempers[citem].length > 0) {
+                                                percm = percm + ';' + citem + ':' + itempers[citem];
+                                            }
+                                        }
+                                    }
+                                    if (percm.length > 0) {
+                                        percm = percm.substring(1, percm.length);
+                                    }
+                                    if (percm.length > 0) {
+                                        cfg.baseQueryString.set("percm", encodeURIComponent(percm));
+                                    }
+
+                                    var qs = cfg.baseQueryString.toString();
+                                    jQuery("#compareform").attr("action",cfg.PageUrlAlias.compare + "?" + qs);
+                                    jQuery("#compareform")[0].submit();
+                                }
+                            };
+
+                            bizCompare(options);
+                        });
+                    });
+                </script>
+<div class="specialLink" id="specialLinkContent" style="display:none;">
+</div>
+<div id="mirContent" style="display: none">
+</div>
+<script type="text/javascript">
+                    Biz.Product.Product2016.displayMirLink();
+                </script>
+</div>
+</div>
+<div id="landingpage-bestseller"></div>
+<script type="text/javascript">
+        NEG.trigger('LANDINGPAGE_DATA_INIT');
+    </script>
+<!-- Banners -->
+<div id="divNormal">
+<form action="https://secure.newegg.ca/NewMyAccount/NewsLetterSubscribe.aspx?Action=Manage" method="post" name="Newsletter" target="newsletterSubscribe">
+<div class="grpEmail">
+<img alt="Subscribe" class="email" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/email.png" title="Subscribe">
+<span class="text">
+                Are you an <span class="bold">E-Blast Insider</span>?
+            </span>
+<div class="disclosure">
+                    Enter your email address to agree to receive promo codes from Newegg. You can unsubscribe at any time.
+                </div>
+<input class="input" id="LoginName" maxlength="128" name="LoginName" onchange="Biz.Product.SubscribeToEmail2012.changeSubmitButton(this);" onfocus="this.value='';Biz.Product.SubscribeToEmail2012.changeSubmitButton(this);" oninput="Biz.Product.SubscribeToEmail2012.changeSubmitButton(this);" onkeyup="Biz.Product.SubscribeToEmail2012.changeSubmitButton(this);" onpropertychange="Biz.Product.SubscribeToEmail2012.changeSubmitButton(this);" title="LoginName" type="text" value="Enter Email Address">
+<img alt="Subscribe Newegg e-Blast" id="productSubscribte" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/btn_subscribe-disabled.png" title="Subscribe Newegg e-Blast">
+<a id="productSubscribteActive" onclick="Biz.Product.SubscribeToEmail2012.nSubmit('https://secure.newegg.ca/NewMyAccount/NewsLetterSubscribe.aspx?Action=Manage');" style="display: none;">
+<img alt="Subscribe Newegg e-Blast" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/btn_subscribe.gif" title="Subscribe Newegg e-Blast"/></a>
+<input name="Subscribe" type="hidden" value="1">
+</input></img></input></img></div>
+</form>
+</div>
+<div class="wrapper_msg" id="divSubmitSucceed" style="display: none;">
+<div class="title">
+        Thank you for subscribing
+    </div>
+<p>
+        Your request will be processed within the next 24 hours.
+    </p>
+<p>
+        Please add "promo@promo.newegg.ca" to your address book to ensure delivery.
+    </p>
+<span class="callToAction actEmail"><a class="blue" href="//promotions.newegg.com/neemail/latest/index-landing.aspx?cm_sp=emailsub-_-productpage-_-promo">
+        See Today's E-Blast Promo
+    </a></span>
+</div>
+<iframe id="newsletterSubscribe" name="newsletterSubscribe" style="display: none;"></iframe>
+<!-- aside -->
+<div class="grpAside">
+<div id="ProductBuzz" tracking-module="Top Review">
+<div class="grpPrimary fieldset Overview_Aside Community_Aside BuzzReview2013" id="ProductBuzzContainer" style="display:none">
+</div>
+</div>
+</div>
+<!-- /aside -->
+</div>
+<div class="boxPageFoot" id="pageFooter"></div>
+<div class="stripeBodyCenterArea3">
+<img alt="" class="stripeImage" height="0" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/none.gif">
+</img></div>
+</div>
+<form action="" id="bcaFromProductDetail" method="get" name="bcaFromProductDetail">
+<input id="Submit" name="Submit" type="hidden" value="Add"/>
+<input id="ItemList" name="ItemList" type="hidden" value=""/>
+<input id="OptionItemList" name="OptionItemList" type="hidden" value="">
+<input id="PreItemList" name="PreItemList" type="hidden" value="">
+<input id="SubscriptionItemList" name="SubscriptionItemList" type="hidden" value=""/>
+<input id="EWTList" name="EWTList" type="hidden" value="">
+<input id="ItemProhibited" name="ItemProhibited" type="hidden" value="">
+<input id="isAitItem" name="isAit" type="hidden" value="">
+<input id="IsRegularPrice" name="isRegularPrice" type="hidden" value="">
+</input></input></input></input></input></input></form>
+<script type="text/javascript">
+        if(document.getElementById("BackToCombo")!=null && typeof(document.getElementById("BackToCombo"))!="undefined"){
+            if(document.referrer==null||document.referrer==""||(document.referrer.toLowerCase().indexOf("combodealdetails")==-1&&document.referrer.toLowerCase().indexOf("combobundledetails")==-1)){
+                document.getElementById("BackToCombo").style.display="none";
+            }else{
+                document.getElementById("BackToCombo").style.display="";
+            }
+            if(Web.Environment.Browser.currentVersion()==Web.Enum.Browser.IE_6 ){
+                document.getElementById("BackToCombo").href="javascript:history.back();";
+                document.getElementById("BackToCombo").onclick="";
+            }
+        };
+        var pageName = "productDetail"; 
+        var bloomReachParams="prod_id=34-155-245&prod_name=MSI%20GL%20Series%20GL73%209RCX-030%2017.3%26%2334%3b%2060%20Hz%20Intel%20Core%20i5%209th%20Gen%209300H%20%26%2340%3b2.40%20GHz%26%2341%3b%20NVIDIA%20GeForce%20GTX%201050%20Ti%208%20GB%20Memory%20256%20GB%20NVMe%20SSD%20Windows%2010%20Home%2064-bit%20Gaming%20Laptop&pstatus=ok&ptype=product&user_agent=python-requests%2f2.19.1";
+    </script>
+<input id="productVersion" type="hidden" value="newProductPage"/>
+<input id="mboParentItemNumber" name="hiddenQValue" type="hidden" value="34-155-245">
+<input id="mboMappingId" name="hiddenQValue" type="hidden" value="">
+<input id="buyBoxItemNumber" type="hidden" value="34-155-245"/>
+<input id="persMainItemNumber" type="hidden" value="N82E16834155245"/>
+<input id="persMainItemState" type="hidden" value="1"/>
+<input id="productPersonalizationFlag" type="hidden" value="True">
+<input id="productBuzzFlag" type="hidden" value="True">
+<input id="moreBuyOptionFlag" type="hidden" value="True">
+<input id="moreBuyOptionTrigger" type="hidden" value="2">
+<input id="moreBuyingOptionLoaded" type="hidden" value="0">
+<input id="shoppingInsightFlag" type="hidden" value="True">
+<script type="text/javascript">
+            Biz.Product.ServicePlan.init();
+        </script>
+<script type="text/javascript">
+        NEG.run(function(require) {
+            var lazyload = require("Biz.Product.LazyLoad")();
+            lazyload.init();
+        });
+    </script>
+<div data-neg-title="cellphoneSecure_title" style="display: none">Price Available at Checkout</div>
+<div data-neg-popid="cellphoneSecure_content" style="display: none"><strong>Why can’t we show you details of this product?</strong><p>Some manufacturers place restrictions on how details of their products may be communicated.</p></div>
+<div id="MAPpopup_Content" style="display: none;">
+<strong>How do I find out the price?</strong><ol><li>Add it to your shopping cart</li><li>Go to checkout, the price will be listed in the Order Summary</li><li>You can remove the product from your order by clicking the "Edit Shopping Cart" button</li><li>To keep it, click the "Submit Order" button</li></ol><strong>Why can’t we show you details of this product?</strong><p>Some manufacturers place restrictions on how details of their products may be communicated.</p>
+</div>
+<div id="CellPhoneMAPpopup_Content" style="display: none;">
+<strong>Why can’t we show you details of this product?</strong><p>Some manufacturers place restrictions on how details of their products may be communicated.</p>
+</div>
+<div class="smartSortXHRNoDataHide">
+</div>
+</input></input></input></input></input></input></input></input></div>
+<!--end, bodyArea-->
+<!--body area end-->
+</div><!--end, container-->
+<!--footer area begin-->
+<footer class="page-footer">
+<div class="bottomModule page-footer-inner" id="boxViewed">
+<div id="boxViewedContent">
+<div id="recentlyViewed2013"></div>
+</div>
+<div id="recentlySearch2013" style="display: none;"></div>
+<div class="bdrBottomModule"></div>
+<script language="javascript" type="text/javascript">
+		Web && Web.Config && (Web.Config.HasBloomReach = 0);
+
+		NEG.run(function(require) {
+			var moduleType = 0;
+    		var enableLazyLoad = true;
+    		var recentlyView = require("Biz.Common.RecentlyView2012")(moduleType, Web.Config.HasBloomReach, enableLazyLoad);
+    		recentlyView.getData();
+    		require('Biz.Common.Popup');
+		});
+		Biz.Common.CommonPop.init();
+	</script>
+</div>
+<div id="recentlyMap_Content" style="display: none;">
+<strong>How do I find out the price?</strong><ol><li>Add it to your shopping cart</li><li>Go to checkout, the price will be listed in the Order Summary</li><li>You can remove the product from your order by clicking the "Edit Shopping Cart" button</li><li>To keep it, click the "Submit Order" button</li></ol><strong>Why can’t we show you details of this product?</strong><p>Some manufacturers place restrictions on how details of their products may be communicated.</p>
+</div>
+<script type="text/javascript">
+            NEG.run(function (require) {
+                var Drone = require('NEG.Widget.Drone');
+                Drone.initalize({
+                    urlAlias: 'NewProductDetail',
+                    brief: JSON.parse('False'.toLowerCase()),
+                    trackingPrefix: 'data-t'
+                });
+            });
+        </script>
+<nav class="shop-region">
+<div class="page-footer-inner">
+<!--<span class="shop-region-title">Shop by Region:</span>
+                        <ul class="shop-region-list">
+                            
+                                    <li>
+                                        <a href="//www.newegg.com?ttc=0">
+                                            United States
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <strong>
+                                            Canada
+                                        </strong>
+                                    </li>
+                                
+                            <li>
+                                <a href="http://www.newegg.cn" rel="nofollow">
+                                    China
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.newegg.com.tw" rel="nofollow">Taiwan</a>
+                            </li>
+                        </ul> -->
+</div>
+</nav>
+<nav class="footer-site-map">
+<div class="page-footer-inner nav-row">
+<ul class="nav-col first">
+<li class="footer-site-map-title">
+                        customer service
+                    </li>
+<li class="footer-site-map-item"><a href="https://kb.newegg.ca/" title="Help Center">
+                        Help Center
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://secure.newegg.ca/Guest/OrderLogin.aspx?Source=1" id="trackOrder" rel="nofollow" title="Track an Order">
+                        Track an Order
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://secure.newegg.ca/Guest/OrderLogin.aspx?Source=2" id="returnItem" rel="nofollow" title="Return an Item">
+                        Return an Item
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://kb.newegg.ca/Article/Index/12/2?id=1183" rel="nofollow" title="Return Policy">
+                        Return Policy
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://kb.newegg.ca/Article/Index/12/2?id=1182" title="Privacy &amp; Security">
+                        Privacy &amp; Security
+                    </a></li>
+<li class="footer-site-map-item"><a href="javascript:newegg_inhouse_feedback &amp;&amp; newegg_inhouse_feedback.show();" id="footer_feedback" title="Feedback">
+                        Feedback
+                    </a></li>
+</ul>
+<ul class="nav-col">
+<li class="footer-site-map-title">
+                        My Account
+                    </li>
+<li class="footer-site-map-item"><a href="https://secure.newegg.ca/NewMyAccount/AccountLogin.aspx" title="Login/Register">
+                        Login/Register
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://secure.newegg.ca/NewMyAccount/Index.aspx?p=f" rel="nofollow" title="My Dashboard">
+                        My Dashboard
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://secure.newegg.ca/NewMyAccount/OrderStatus.aspx" rel="nofollow" title="Order History">
+                        Order History
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://secure.newegg.ca/RMA/RMAHistory.aspx" rel="nofollow" title="Returns History">
+                        Returns History
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://secure.newegg.ca/NewMyAccount/AddressBook.aspx" rel="nofollow" title="Address Book">
+                        Address Book
+                    </a></li>
+<li class="footer-site-map-item">
+<a href="https://secure.newegg.ca/NewMyAccount/AccountLogin.aspx?nextpage=https%3a%2f%2fwww.newegg.ca%2fProduct%2fNewProduct.aspx%3fItem%3dN82E16834155245%26cm_sp%3dHomepage_Dailydeal-_-P1_34-155-245-_-09072019%26Ignorebbr%3d1" rel="nofollow" title="Wish Lists">Wish Lists</a>
+</li>
+<li class="footer-site-map-item"><a href="https://secure.newegg.ca/Guest/EmailNotifications.aspx" id="emailNotificationFooterUrl" rel="nofollow" title="Email Notifications">
+                        Email Notifications
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://secure.newegg.ca/NewMyAccount/NeweggSubscriptions.aspx" rel="nofollow" title="Subscriptions Orders">
+                            Subscriptions Orders
+                        </a></li>
+<li class="footer-site-map-item"><a href="https://secure.newegg.ca/NewMyAccount/AutoNotifyManagement.aspx" rel="nofollow" title="Auto Notifications">
+                        Auto Notifications
+                    </a></li>
+</ul>
+<ul class="nav-col">
+<li class="footer-site-map-title">
+                        Company Information
+                    </li>
+<li class="footer-site-map-item"><a href="https://www.newegg.ca/d/Info/AboutUs" title="About Newegg">
+                        About Newegg
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://www.newegg.ca/d/Info/Awards" title="Awards/Rankings">
+                        Awards/Rankings
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://www.newegg.ca/d/Info/OfficeHours" rel="nofollow" title="Hours and Locations">
+                        Hours and Locations
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://www.newegg.ca/d/Careers/TabIndex" rel="nofollow" title="Careers">
+                        Careers
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://www.newegg.ca/d/Info/Newsroom" title="Newsroom">
+                        Newsroom
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://www.newegg.com/insider/" target="_blank" title="Newegg Blog">
+                            Newegg Blog
+                        </a></li>
+<li class="footer-site-map-item"><a href="https://www.newegg.ca/d/Info/Testimonials" title="Testimonials">
+                        Testimonials
+                    </a></li>
+</ul>
+<ul class="nav-col">
+<li class="footer-site-map-title">
+                        Tools &amp; Resources
+                    </li>
+<li class="footer-site-map-item"><a href="//www.newegg.ca/sellers/" rel="nofollow" title="Sell on Newegg Marketplace">
+                        Sell on Newegg Marketplace
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://www.newegg.ca/sellers/index.php/shipped-by-newegg/" rel="nofollow" title="Shipped by Newegg">
+                            Shipped by Newegg
+                        </a></li>
+<li class="footer-site-map-item"><a href="https://www.newegglogistics.com/intro/" rel="nofollow" title="3PL and E-commerce Fulfillment">
+	                        3PL and E-commerce Fulfillment
+                        </a></li>
+<li class="footer-site-map-item"><a href="//www.newegg.ca/Info/Affiliates.aspx" title="Become an Affiliate">
+                        Become an Affiliate
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://vendorportal.newegg.com/vendor-request" title="Become a Newegg Vendor">
+                        Become a Newegg Vendor
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://www.newegg.ca/Category" title="Site Map">
+                        Site Map
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://www.newegg.ca/d/Feedback/Reviews" rel="nofollow" title="Product Review">
+                        Product Review
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://www.newegg.ca/d/Special/Rebate" title="Rebates">
+                        Rebates
+                    </a></li>
+<li class="footer-site-map-item"><a href="https://secure.newegg.ca/GiftCertificate/NewGiftCertificate.aspx" rel="nofollow" title="Gift Cards">
+                            Gift Cards
+                        </a></li>
+<li class="footer-site-map-item"><a href="//www.newegg.ca/mobile?name=Mobile-Apps" rel="nofollow" title="Mobile Apps">
+                        Mobile Apps
+                    </a></li>
+</ul>
+</div>
+</nav>
+<nav class="shop-region">
+<div class="page-footer-inner">
+<!--<span class="shop-region-title">
+                        Affiliated Sites:
+                    </span>-->
+<ul class="shop-region-list">
+<li>
+<a href="https://promotions.newegg.com/international/global/index.html" rel="nofollow" target="_blank" title="Newegg Global(new window)">
+                                    Newegg Global
+                                    <br/>
+<span class="shop-region-list-note">
+                                        International Shopping
+                                    </span>
+</a>
+</li>
+</ul>
+<ul class="mobile-app-list">
+<li>
+<div class="qr-code">
+<img alt="Newegg Mobile" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/Footer/MobileIcon/msqrcode_ca_en.png"/>
+</div>
+<a href="https://www.newegg.ca" rel="nofollow" target="_blank" title="Newegg Mobile">
+<img alt="Newegg Mobile" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/Footer/MobileIcon/btn_mobileSite.png"/>
+</a>
+</li>
+<li>
+<div class="qr-code">
+<img alt="Download on the App Store" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/Footer/MobileIcon/asqrcode_ca.png"/>
+</div>
+<a href="https://itunes.apple.com/us/app/newegg-mobile/id345188269" rel="nofollow" target="_blank" title="Download on the App Store">
+<img alt="Download on the App Store" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/Footer/MobileIcon/btn_appStore.png"/>
+</a>
+</li>
+<li>
+<div class="qr-code">
+<img alt="Get it on Google Play" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/Footer/MobileIcon/gpqrcode_ca.png"/>
+</div>
+<a href="https://play.google.com/store/apps/details?id=com.newegg.app" rel="nofollow" target="_blank" title="Get it on Google Play">
+<img alt="Get it on Google Play" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/Footer/MobileIcon/btn_playStore.png"/>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<div class="footer-awards" id="footerAwards">
+<script type="text/javascript">
+                usingNamespace("Biz.Footer")["Config"] = {
+                    veriSignUrl: "StaticLink.VeriSign"
+                };
+            </script>
+<a class="noline" href="//www.resellerratings.com/store/Newegg_ca">
+<img alt="Reseller Ratings" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/resellerRatings_105x75.gif" style="border: 0pt none;">
+</img></a>
+<script src="https://sealserver.trustwave.com/seal.js?code=337bdba159684b989be28d750101ed87" type="text/javascript"></script><a class="noline" href="//www.newegg.ca/Info/Awards.aspx" rel="nofollow">
+<img alt="Inc500" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/inc500.gif" style="border: 0;"/></a>
+</div>
+</footer>
+<!--footer area end-->
+<div class="footer-disclaimer">
+<ul>
+<li style="display: inline-block; margin: 0 10px">
+<i class="fa fa-map-marker"></i>
+                55 East Beaver Creek Road, Unit E and F, Richmond Hill, Ontario, L4B 1E8
+            </li>
+<li style="display: inline-block; margin: 0 10px">
+<i class="fa fa-envelope"></i>
+<a href="mailto:service@newegg.ca">service@newegg.ca</a>
+</li>
+</ul>
+<p>
+<a href="https://kb.newegg.ca/knowledge-base/policy-agreement/" rel="nofollow" target="_blank">
+                Policy &amp; Agreement
+            </a>| <a href="https://kb.newegg.ca/knowledge-base/privacy-policy/" rel="nofollow" target="_blank">
+                Privacy Policy
+            </a>
+<span id="GDPRSpan" style="display:none">
+    | <a href="https://kb.newegg.ca/knowledge-base/privacy-policy/#cookies" id="cookiePolicyUrl" rel="nofollow" target="_blank">
+        Cookie Policy
+    </a>| <a href="javascript:GDPRManageCookieClick();" rel="nofollow">
+        Manage Cookie
+    </a>| <a href="https://www.newegg.ca/d/Info/YourInformation" rel="nofollow" target="_blank">
+        Your Information
+    </a></span> <script>
+            function GDPRManageCookieClick() {
+                jQuery('#global-gdpr-Popup-All').click();
+                Biz.Common.GDPR.popupInitForAll('popup-all-gdpr-marketing', 'popup-all-gdpr-third');
+            }
+    </script>
+</p>
+    
+
+ © 2000-2019 Newegg Inc
+ <span id="ieFontCheck" style="width:0px;">A</span>s used herein, “Newegg.ca” means Newegg Canada Inc. unless the context specifically refers to the <a href="//www.newegg.ca">www.newegg.ca</a> web address.
+    </div>
+<ul class="social-follow-list">
+<li class="social-follow-item">
+<a aria-label="Facebook" class="fa fa-facebook social-follow-item-icon" href="https://facebook.com/NeweggCanada" target="_blank"><span style="display: none">Facebook</span></a>
+</li>
+<li class="social-follow-item">
+<a aria-label="Twitter" class="fa fa-twitter social-follow-item-icon" href="https://twitter.com/neweggcan" target="_blank"><span style="display: none">Twitter</span></a>
+</li>
+<li class="social-follow-item">
+<a aria-label="Instagram" class="fa fa-instagram social-follow-item-icon" href="https://www.instagram.com/newegg/" target="_blank"><span style="display: none">Instagram</span></a>
+</li>
+<li class="social-follow-item">
+<a aria-label="LinkedIn" class="fa fa-linkedin social-follow-item-icon" href="https://www.linkedin.com/company/newegg-com" target="_blank"><span style="display: none">LinkedIn</span></a>
+</li>
+<li class="social-follow-item">
+<a aria-label="Pinterest" class="fa fa-pinterest social-follow-item-icon" href="https://www.pinterest.com/newegg/" target="_blank"><span style="display: none">Pinterest</span></a>
+</li>
+<li class="social-follow-item">
+<a aria-label="YouTube" class="fa fa-youtube-play social-follow-item-icon" href="https://www.youtube.com/user/newegg" target="_blank"><span style="display: none">YouTube</span></a>
+</li>
+<li class="social-follow-item">
+<a aria-label="Twitch" class="fa fa-twitch social-follow-item-icon" href="https://www.twitch.tv/newegg" target="_blank"><span style="display: none">Twitch</span></a>
+</li>
+<li class="social-follow-item">
+<a aria-label="Discord" class="social-follow-item-icon" href="https://discordapp.com/invite/newegg" target="_blank"><img alt="Discord" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/Footer/SocialIcon/social_Discord.png"/><span style="display: none">Discord</span></a>
+</li>
+<li class="social-follow-item">
+<a aria-label="Mixer" class="social-follow-item-icon" href="https://mixer.com/newegg" target="_blank"><img alt="Mixer" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/Footer/SocialIcon/social_Mixer.png"/><span style="display: none">Mixer</span></a>
+</li>
+</ul>
+<div class="v655" id="overlay" style="display: none;">
+</div>
+<div class="v655" id="modal" style="display: none;">
+<span class="atnIcon icnInfo">
+<img alt="More Information" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/none.gif"/></span> <a class="atnIcon icnClose" href="javascript:void();" onclick="display.closeModal();">
+<img alt="close" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/none.gif">Close</img></a>
+<div class="content">
+</div>
+<img alt="loading" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/loading16.gif" style="display: none;">
+</img></div>
+<div class="v660">
+<div id="modalCommon" style="display: none;">
+<span class="atnIcon icnInfoNew" id="AlarmPanelNewCommon">
+<img alt="" class="iconNew" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/none.gif">
+<span class="title"></span></img></span><a class="atnIcon icnCloseNew" href="javascript:void(0);" onclick="Biz.Common.CommonPop.closePopup();">
+<img alt="close window" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/none.gif"/></a>
+<div class="content popUpLink" id="modalContent">
+</div>
+<div class="footer">
+<a href="javascript:void(0);" onclick="Biz.Common.CommonPop.closePopup();">
+                        close window
+                    </a>
+</div>
+</div>
+</div>
+<img alt="" height="0" src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/Gomeznone10.gif" title="" width="0">
+<span style="display: none;">
+    If the Adobe Reader does not appear when you click on a link for a PDF file, you can <a href="https://www.adobe.com/products/acrobat/readstep.html">download Adobe Reader from the Adobe web site</a>.
+</span>
+<script type="text/javascript">
+    jQuery(document).ready(function () { Biz.Common.PageFooter.setLink(); });
+</script>
+<!--GDPR start-->
+<style>
+    .layout-wide .form-checkbox {
+        margin: 0;
+    }
+</style>
+<a class="open-popup" data-noexit="true" href="javascript:;" id="global-gdpr-Popup-MKT" style="display: none;"></a>
+<div class="centerPopup-source" id="global-gdpr-Popup-MKT_Content">
+<div class="centerPopup-title">
+<h2>Your Personal Data</h2>
+</div>
+<div class="centerPopup-normal-content">
+<p class="content">Newegg’s website and online services use cookies and similar technology for a number of reasons: Some technologies allow the site to function. These functional cookies are required to use the site and complete purchases. Another set of technologies improve the browsing experience and personalize it. Here are all the details about Newegg’s <a href="https://kb.newegg.com/Article/Index/12/3?id=2032#cookies" target="_blank">Cookie</a> and <a href="https://kb.newegg.com/Article/Index/12/3?id=2032" target="_blank">Privacy Policies</a>. Please select and accept your settings before you continue. Thank you.</p>
+<div class="form-cells">
+<div class="form-cell layout-wide">
+<label class="form-checkbox">
+<input checked="" disabled="" id="popup-mkt-gdpr-necessary" name="gdpr-category" type="checkbox" value="necessary"/>
+<span class="form-checkbox-title" style="color: #222;">Functional (required)</span>
+</label>
+</div>
+<div class="form-cell layout-wide">
+<label class="form-checkbox">
+<input id="popup-mkt-gdpr-marketing" name="gdpr-category" type="checkbox" value="personalized experience and offers"/>
+<span class="form-checkbox-title">Personalized Experience &amp; Offers (recommended)</span>
+</label>
+</div>
+</div>
+</div>
+<div class="centerPopup-bottom">
+<div class="centerPopup-button-area">
+<button class="btn btn-primary centerPopup-trigger-close" onclick="Biz.Common.GDPR.global_gdpr_popup_mkt_click()" type="button">I Agree</button>
+</div>
+</div>
+</div>
+<a class="open-popup" href="javascript:;" id="global-gdpr-Popup-All" style="display: none;"></a>
+<div class="centerPopup-source" id="global-gdpr-Popup-All_Content">
+<div class="centerPopup-title">
+<h2>Your Personal Data</h2>
+</div>
+<div class="centerPopup-normal-content">
+<p class="content">Newegg’s website and online services use cookies and similar technology for a number of reasons: Some technologies allow the site to function. These functional cookies are required to use the site and complete purchases. Another set of technologies improve the browsing experience and personalize it. Here are all the details about Newegg’s <a href="https://kb.newegg.com/Article/Index/12/3?id=2032#cookies" target="_blank">Cookie</a> and <a href="https://kb.newegg.com/Article/Index/12/3?id=2032" target="_blank">Privacy Policies</a>. Please select and accept your settings before you continue. Thank you.</p>
+<div class="form-cells">
+<div class="form-cell layout-wide">
+<label class="form-checkbox">
+<input checked="" disabled="" id="popup-all-gdpr-necessary" name="gdpr-category" type="checkbox" value="necessary"/>
+<span class="form-checkbox-title" style="color: #222;">Functional (required)</span>
+</label>
+</div>
+<div class="form-cell layout-wide">
+<label class="form-checkbox">
+<input id="popup-all-gdpr-marketing" name="gdpr-category" type="checkbox" value="personalized experience and offers"/>
+<span class="form-checkbox-title">Personalized Experience &amp; Offers (recommended)</span>
+</label>
+</div>
+<div class="form-cell layout-wide">
+<label class="form-checkbox">
+<input id="popup-all-gdpr-third" name="gdpr-category" type="checkbox" value="3rd party"/>
+<span class="form-checkbox-title">3rd Party (optional)</span>
+</label>
+</div>
+</div>
+</div>
+<div class="centerPopup-bottom">
+<div class="centerPopup-button-area">
+<button class="btn btn-primary centerPopup-trigger-close" onclick="Biz.Common.GDPR.global_gdpr_popup_all_click()" type="button">I Agree</button>
+</div>
+</div>
+</div>
+<a class="open-popup" href="javascript:;" id="global-gdpr-Popup-Trd" style="display: none;"></a>
+<div class="centerPopup-source" id="global-gdpr-Popup-Trd_Content">
+<div class="centerPopup-title">
+<h2>Your Personal Data</h2>
+</div>
+<div class="centerPopup-normal-content">
+<p class="content">To use this third-party content we need your approval to share your data with them. Here are all the details about Newegg’s <a href="https://kb.newegg.com/Article/Index/12/3?id=2032#cookies" target="_blank">Cookie</a> and <a href="https://kb.newegg.com/Article/Index/12/3?id=2032" target="_blank">Privacy Policies</a>. Please accept if you wish to continue with third-party features. Thank you.</p>
+<div class="form-cells">
+<div class="form-cell layout-wide">
+<label class="form-checkbox">
+<input id="popup-trd-gdpr-trd" name="gdpr-category" onchange="Biz.Common.GDPR.global_gdpr_popup_trd_checkBoxChange()" type="checkbox" value="3rd party"/>
+<span class="form-checkbox-title">3rd Party</span>
+</label>
+</div>
+</div>
+</div>
+<div class="centerPopup-bottom">
+<div class="centerPopup-button-area">
+<button class="btn btn-primary centerPopup-trigger-close" disabled="" id="popup-trd-gdpr-submit" onclick="Biz.Common.GDPR.global_gdpr_popup_trd_click();" type="button">I Agree</button>
+</div>
+</div>
+</div>
+<script>
+    Biz.Common.GDPR.checkNecessary(false);
+</script>
+<!--GDPR end-->
+<script>
+(function () {
+    if (typeof jQuery != 'undefined' && typeof jQuery.browser != 'undefined' && jQuery.browser.msie && parseInt(jQuery.browser.version) < 11) {
+        var msg = '<div style="padding:15px;color:#211e14;background-image:linear-gradient(#feefae, #fae692);border-bottom:1px solid #b3a569">' +
+'<h4>Please note that Newegg will stop supporting Internet Explorer ' + parseInt(jQuery.browser.version) + ' as of June 29, 2018.</h4>' +
+'<p>Newegg continually assesses the state of our existing solutions and looks for ways to make improvements. As part of our mission to protect customers and align with PCI DSS, Newegg updated the minimum TLS protocol required to access Newegg.com from TLS 1.0 to TLS 1.1. TLS 1.0 support is targeted for deprecation on June 29, 2018. We recommend <a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Microsoft Edge</a>, <a href="https://chrome.google.com">Google Chrome</a>, or <a href="https://mozilla.org/firefox/">Firefox</a>.</p></p></div>';
+        jQuery('body').prepend(msg);
+    }
+})();
+!function () { if ("undefined" == typeof jQuery) { var e = document.createElement("img"); e.src = "//pf.newegg.com/tracking?entryType=jquery&name=undefined", document.body.appendChild(e) } }();
+</script>
+<!-- BEGIN SiteCatalyst --><script type="text/javascript">jQuery(document).ready(function () {var parms=[];var re1 = new RegExp('(\\?|&)?icid=([^&]*)');jQuery("a[href*='icid=']").each(function (n) {var m_name = re1.exec(jQuery(this).attr('href'));if (m_name!=null) { parms.push(m_name[2]);}});if (parms.length>0) {Biz.Common.SiteCatalyst.sendForOnClick({ 'prop21': parms.join(",")}, 'banner impression');}})</script><script type="text/javascript">var scp=typeof(scp)=='undefined'?{}:scp;scp.cmPageName="PRODUCT\x3aNB MSI GL73 9RCX-030 R_34-155-245";scp.serverName="E11WEB10";scp.pageType="Browsing;Product Browsing";scp.pageName="Home \x3e Computer Systems \x3e Gaming Laptops \x3e Gaming Laptops \x3e MSI \x3e Item\x23\x3aN82E16834155245\x3aPRODUCT";scp.searchType="";scp.events=scp.events?scp.events:"prodView";scp.isfreeshipping="Free Shipping";scp.products=scp.products?scp.products:"34-155-245";scp.brandName=scp.brandName?scp.brandName:"MSI";scp.sellerName=scp.sellerName?scp.sellerName:"Newegg";scp.finalPrice="979.99";scp.pageNickName="PRODUCT";if (typeof (s) != 'undefined') { Biz.Common.SiteCatalyst.send(scp); } else { document.getElementsByTagName('body')[0].addEventListener('eventFromScode', function (e) { Biz.Common.SiteCatalyst.send(scp); }, false); }</script><!-- END SiteCatalyst -->
+<script type="text/javascript">
+      var utag_data = {
+            page_breadcrumb:'Home &gt; Computer Systems &gt; Gaming Laptops &gt; Gaming Laptops &gt; MSI &gt; Item#:N82E16834155245',
+            page_tab_name:'Computer Systems',
+            product_category_id:['363'],
+            product_category_name:['Gaming Laptops'],
+            product_subcategory_id:['3365'],
+            product_subcategory_name:['Gaming Laptops'],
+            product_id:['34-155-245'],
+            product_web_id:['N82E16834155245'],
+            product_title:['MSI GL Series GL73 9RCX-030 17.3&amp;#34; 60 Hz Intel Core i5 9th Gen 9300H &amp;#40;2.40 GHz&amp;#41; NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB NVMe SSD Windows 10 Home 64-bit Gaming Laptop'],
+            product_manufacture:['MSI'],
+            product_sale_price:['979.99'],
+            product_default_shipping_cost:['0.01'],
+            product_model:['GL73 9RCX-030'],
+            product_instock:['1'],
+            product_group_id:['87340739'],
+            page_type:'Product',
+            site_region:'CAN',
+            site_currency:'CAD',
+            page_name:'NewProductDetail',
+            search_scope:jQuery('#haQuickSearchStore option:selected').text(),
+            user_nvtc:Web.StateManager.Cookies.get(Web.StateManager.Cookies.Name.NVTC),
+            user_name:Web.StateManager.Cookies.get(Web.StateManager.Cookies.Name.LOGIN,'LOGINID6'),
+            third_party_render:[]
+            
+      };
+      </script>
+<script type="text/javascript">
+      (function(a,b,c,d){
+          a='//tags.tiqcdn.com/utag/newegg/newegg.ca/prod/utag.js';
+          b=document;
+          c='script';
+          d=b.createElement(c);
+          d.src=a;
+          d.type='text/java'+c;
+          d.async=true;
+          a=b.getElementsByTagName(c)[0];
+          a.parentNode.insertBefore(d,a)
+      })();
+      </script>
+<script type="text/javascript">var store_data={storeTypeInt:'-1',
+storeType:'product',
+};</script>
+<script language="javascript" type="text/javascript">
+<!--
+usingNamespace("Web.Survey")["CFG"]={preCondition:{"enabled":true,"minVisit":3,"percentage":1,"includePages":{"pageList":[]},"includePageList":[],"excludePages":{"pageList":[]},"excludePageList":[]}};
+Web.Survey.Trigger.check('https://www.newegg.ca/Common/SatisfactionSurvey.aspx',840,450);
+//-->
+</script>
+<script type="text/javascript">
+		var dom = document.getElementById('overlay');
+		var div = document.getElementById('container');
+		div.appendChild(dom);
+	</script>
+<script type="text/javascript">_satellite.pageBottom();</script>
+</img></body>
+</html>
+>

@@ -14,7 +14,11 @@ def index():
 @main.route('/profile')
 @login_required
 def profile():
-    return render_template('profile.html', name=current_user.name, url=current_user.url, price=current_user.price)
+    update = False
+    if current_user.url or current_user.price:
+        update = True
+    print("Update:{0}".format(update))
+    return render_template('profile.html', name=current_user.name, url=current_user.url, price=current_user.price, update=update)
 
 @main.route('/subscribe', methods=['POST'])
 def subscribe():
@@ -29,5 +33,9 @@ def subscribe():
 
 @main.route('/dashboard')
 def dashboard():
-    valid = track(current_user.url, current_user.price)
-    return render_template('dashboard.html', valid=valid)
+    can_purchase = track(current_user.url, current_user.price)
+    if can_purchase:
+        valid = "You can purchase this item!"
+    else:
+        valid = "You cannot currently purchase this item!"
+    return render_template('dashboard.html', name=current_user.name, url=current_user.url, price=current_user.price, valid=valid)
