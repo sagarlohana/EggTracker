@@ -9,4 +9,22 @@
 <h2>
     <p class="sub"> <img src="/static/newegg.png" alt="Newegg.ca Logo" height="100" width="300" align="middle"> price tracker </p>
 </h2>
+{% for i in range (0, total_products) %}
+  {% if i < products_available %}
+    <img src="/static/hatched.png" width="60px" height="60px">
+  {% else %}
+  <img src="/static/unhatched.png" width="60px" height="60px">
+  {% endif %}
+{% endfor %}
+
+<br>
+{% if products_available == 1 %}
+<p class="sub">1 product available! <a href="{{ url_for('main.dashboard')}}">Click here to view!</a></p>
+{% elif products_available == -2 %}
+<p class="sub"> <a href="{{ url_for('auth.login') }}">Please login to view your tracked items! </a></p>
+{% elif products_available == 0 %}
+<p class="sub"> <a href="{{ url_for('main.profile') }}">Visit your profile to add items to track! </a></p>
+{% else %}
+<p class="sub">{{ products_available }} products available! <a href="{{ url_for('main.dashboard')}}">Click here to view!</a></p>
+{% endif %}
 {% endblock %}

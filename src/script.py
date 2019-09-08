@@ -5,6 +5,8 @@ from bs4 import BeautifulSoup
 
 def track(url_list, thumbnail_lst, actual_prices_lst, can_buy):
 
+    num_products = 0
+
     # Asynchronous response retrieval using grequests
     if len(url_list) > 1:
         reqs = [grequests.get(url.url) for url in url_list]
@@ -34,5 +36,7 @@ def track(url_list, thumbnail_lst, actual_prices_lst, can_buy):
         # Add purchasability to list
         if float(current_price) <= url_list[i].price:
             can_buy += [True]
+            num_products += 1
         else:
             can_buy += [False]
+    return num_products

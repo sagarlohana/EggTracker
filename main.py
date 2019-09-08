@@ -3,14 +3,18 @@
 from flask import Blueprint, render_template, request, redirect, url_for
 from flask_login import login_required, current_user
 from . import db
-from .models import UrlList
+from .models import UrlList, User
 from .src.script import track
 
 main = Blueprint('main', __name__)
 
 @main.route('/')
 def index():
-    return render_template('index.html')
+    # If user logged in, find number of products avail and total products
+    if current_user.is_authenticated:
+        return render_template('index.html', products_available=current_user.products_available, total_products=current_user.total_products)
+    else:
+        return render_template('index.html', products_available=-2, total_products=-2)
 
 @main.route('/profile')
 @login_required
@@ -22,7 +26,7 @@ def subscribe():
     url = request.form.get('url')
     price = request.form.get('price')
     
-    # if the above check passes, then we know the user has the right credentials
+    # If the above check passes, then we know the user has the right credentials
     new_url = UrlList(user_id=current_user.id, url=url, price=price)
 
     db.session.add(new_url)
@@ -44,12 +48,14 @@ def dashboard():
     """ Track will update the above lists with the links to the 
         respective images and prices of the products
     """
-    can_purchase = True
-    can_purchase = track(url_list, thumbnail_lst, actual_prices_lst, can_buy)
+    num_products = track(url_list, thumbnail_lst, actual_prices_lst, can_buy)
     print(actual_prices_lst)
     print(can_buy)
 
-    for t in thumbnail_lst:
-        print(t)
+    current_user.products_available = num_products 
+    current_user.total_products = len(url_list)
+    db.session.commit()
+    # print("Products Available: {}, Total Products: {}".format(current_user.products_available, current_user.total_products))
+
     return render_template('dashboard.html', name=current_user.name, url_list=url_list, thumbnail_lst=thumbnail_lst,
      actual_prices_lst=actual_prices_lst, can_buy=can_buy, length=len(url_list))
