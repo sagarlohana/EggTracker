@@ -17,7 +17,7 @@ def login_post():
     email = request.form.get('email')
     password = request.form.get('password')
     remember = True if request.form.get('remember') else False
-
+    
     user = User.query.filter_by(email=email).first()
 
     # check if user actually exists
@@ -46,7 +46,7 @@ def signup_post():
         flash("Email address already exists.")
         return redirect(url_for('auth.login'))
     
-    new_user = User(email=email, name=name, password=generate_password_hash(password, method='sha256'), url='', price='')
+    new_user = User(email=email, name=name, password=generate_password_hash(password, method='sha256'), price='')
     
     db.session.add(new_user)
     db.session.commit()

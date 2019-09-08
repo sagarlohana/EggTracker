@@ -15,11 +15,8 @@ def index():
 @main.route('/profile')
 @login_required
 def profile():
-    update = False
-    if current_user.url or current_user.price:
-        update = True
-    print("Update:{0}".format(update))
-    return render_template('profile.html', name=current_user.name, url=current_user.url, price=current_user.price, update=update)
+    curr_url = UrlList.query.filter_by()
+    return render_template('profile.html', name=current_user.name)
 
 @main.route('/subscribe', methods=['POST'])
 def subscribe():
@@ -30,19 +27,22 @@ def subscribe():
     current_user.url = url
     current_user.price = price
 
-    new_url = UrlList(email=current_user.email, url=url)
+    new_url = UrlList(user_id=current_user.id, url=url)
 
     db.session.add(new_url)
     db.session.commit()
-    curr_url = UrlList.query.filter_by(email=current_user.email).first()
+    curr_url = UrlList.query.filter_by(user_id=current_user.id).first()
     print(curr_url)
     return redirect(url_for('main.profile'))
 
 @main.route('/dashboard')
 def dashboard():
-    can_purchase = track(current_user.url, current_user.price)
+    # can_purchase = track(current_user.url, current_user.price)
+    can_purchase = True
+    url_list = UrlList.query.filter_by(user_id=current_user.id).all()
+    print(url_list)
     if can_purchase:
         valid = "You can purchase this item!"
     else:
         valid = "You cannot currently purchase this item!"
-    return render_template('dashboard.html', name=current_user.name, url=current_user.url, price=current_user.price, valid=valid)
+    return render_template('dashboard.html', name=current_user.name, valid=valid)
