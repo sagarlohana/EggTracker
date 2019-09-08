@@ -39,7 +39,7 @@ def signup_post():
     email = request.form.get('email')
     name = request.form.get('name')
     password = request.form.get('password')
-
+    db.create_all()
     user = User.query.filter_by(email=email).first()
 
     if user:
@@ -47,7 +47,7 @@ def signup_post():
         return redirect(url_for('auth.login'))
     
     new_user = User(email=email, name=name, password=generate_password_hash(password, method='sha256'), url='', price='')
-
+    
     db.session.add(new_user)
     db.session.commit()
 

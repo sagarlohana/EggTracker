@@ -3,6 +3,7 @@
 from flask import Blueprint, render_template, request, redirect, url_for
 from flask_login import login_required, current_user
 from . import db
+from .models import UrlList
 from .src.script import track
 
 main = Blueprint('main', __name__)
@@ -28,7 +29,13 @@ def subscribe():
     # if the above check passes, then we know the user has the right credentials
     current_user.url = url
     current_user.price = price
+
+    new_url = UrlList(email=current_user.email, url=url)
+
+    db.session.add(new_url)
     db.session.commit()
+    curr_url = UrlList.query.filter_by(email=current_user.email).first()
+    print(curr_url)
     return redirect(url_for('main.profile'))
 
 @main.route('/dashboard')

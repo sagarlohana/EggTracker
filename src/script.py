@@ -32,10 +32,8 @@ def track(url, price):
     result = requests.get(url)
 
     soup = BeautifulSoup(result.text, 'html.parser')
-    # print (soup.prettify)
+    print (soup.prettify)
     current_price = soup.find('meta', {'itemprop': 'price'})['content']
     if current_price <= price:
         return True
     return False
-    # print (div)
-    #<meta content="979.99" itemprop="price">
