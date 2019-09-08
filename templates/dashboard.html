@@ -4,7 +4,7 @@
 
 {% block content %}
 <h1 class="title">
-  Welcome, {{ name }}!
+  {{ name }}'s Dashboard
 </h1>
 
 <table class="content-table">
@@ -19,9 +19,13 @@
   <tbody>
     {%for i in range(0, length)%}
     <tr>
-      <td>{{ url_list[i].url }}</td>
-      <td>{{ url_list[i].price }}</td>
-      <td>{{ actual_prices_lst[i] }}</td>
+      <td>
+        <a href={{ url_list[i].url }}>
+            <img src="https://{{thumbnail_lst[i]}}" alt="Product{{ i }}" width="100" height="100"> 
+        </a>
+      </td>
+      <td>${{ url_list[i].price }}</td>
+      <td>${{ actual_prices_lst[i] }}</td>
       <td>{{ can_buy[i] }}</td>
     </tr>
     {% endfor %}

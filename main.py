@@ -55,5 +55,7 @@ def dashboard():
     #     valid = "You can purchase this item!"
     # else:
     #     valid = "You cannot currently purchase this item!"
+    for t in thumbnail_lst:
+        print(t)
     return render_template('dashboard.html', name=current_user.name, url_list=url_list, thumbnail_lst=thumbnail_lst,
      actual_prices_lst=actual_prices_lst, can_buy=can_buy, length=len(url_list))
