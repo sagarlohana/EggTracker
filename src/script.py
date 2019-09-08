@@ -6,8 +6,11 @@ from bs4 import BeautifulSoup
 def track(url_list, thumbnail_lst, actual_prices_lst, can_buy):
 
     # Asynchronous response retrieval using grequests
-    reqs = [grequests.get(url.url) for url in url_list]
-    responses = grequests.map(reqs)
+    if len(url_list) > 1:
+        reqs = [grequests.get(url.url) for url in url_list]
+        responses = grequests.map(reqs)
+    else:
+        responses = [requests.get(url_list[0].url)]
 
     for i in range(len(responses)):
         soup = BeautifulSoup(responses[i].text, 'html.parser')
@@ -22,17 +25,14 @@ def track(url_list, thumbnail_lst, actual_prices_lst, can_buy):
         # Add current price to list
         actual_prices_lst += [current_price]
 
-        # Find thumbnail of product
-        img_object = soup.find('a', {'onfocus': re.compile('swapProductImageWithLoadding2011.*')})['onfocus']
-        pattern = re.compile('c1\.neweggimages\.com/NeweggImage/ProductImage/.*\.jpg')
-        result = pattern.search(img_object)
-        thumbnail = result.group(0).split(',')[0][:-1]
+        # Find thumbnail of product, thumbnail may not exist
+        thumbnail = soup.find('meta', {'property': 'og:image'})["content"]
 
         # Add thumbnail source URL to list
         thumbnail_lst += [thumbnail]
         
         # Add purchasability to list
-        if current_price <= url_list[i].price:
+        if float(current_price) <= url_list[i].price:
             can_buy += [True]
         else:
             can_buy += [False]

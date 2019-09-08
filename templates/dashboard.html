@@ -4,7 +4,7 @@
 
 {% block content %}
 <h1 class="title">
-  {{ name }}'s Dashboard
+  Your Dashboard
 </h1>
 
 <table class="content-table">
@@ -21,7 +21,7 @@
     <tr>
       <td>
         <a href={{ url_list[i].url }}>
-            <img src="https://{{thumbnail_lst[i]}}" alt="Product{{ i }}" width="100" height="100"> 
+            <img src="{{thumbnail_lst[i]}}" width="100" height="100"> 
         </a>
       </td>
       <td>${{ url_list[i].price }}</td>
