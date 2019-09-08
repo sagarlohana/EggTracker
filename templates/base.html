@@ -11,6 +11,42 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css" />
 </head>
 
+<style>
+    .content-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.9em;
+        min-width: 400px;
+        border-radius: 5px 5px 0 0;
+        overflow: hidden;
+        box-shadow: 0 0 2px rgba(0, 0, 0, 0.15)
+    }
+
+    .content-table thead tr{
+        background-color: #0080ff;
+        color: #ffffff;
+        text-align: left;
+        font-weight: bold;
+    }
+
+    .content-table th,
+    .content-table td {
+        padding: 12px 15px;
+    }
+
+    .content-table tr {
+        border-bottom: 1px solid #009879;
+    }
+
+    /* .content-table tr:nth-of-type(even){
+        background-color:#DCDCDC;
+    } */
+
+    .content-table tr:last-of-type{
+        border-bottom: 2px solid #009879;
+    }
+</style>
+
 <body>
     <section class="hero is-primary is-fullheight">
 

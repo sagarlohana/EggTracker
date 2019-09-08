@@ -7,9 +7,25 @@
   Welcome, {{ name }}!
 </h1>
 
-<h2>
-  <br>
-  {{ valid }}
-</h2>
+<table class="content-table">
+  <thead>
+    <tr>
+      <td> Product </td>
+      <td> Desired Price </td>
+      <td> Product Price </td>
+      <td> Can Buy? </td>
+    </tr>
+  </thead>
+  <tbody>
+    {%for i in range(0, length)%}
+    <tr>
+      <td>{{ url_list[i].url }}</td>
+      <td>{{ url_list[i].price }}</td>
+      <td>{{ actual_prices_lst[i] }}</td>
+      <td>{{ can_buy[i] }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
 
 {% endblock %}

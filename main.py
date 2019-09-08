@@ -24,10 +24,7 @@ def subscribe():
     price = request.form.get('price')
     
     # if the above check passes, then we know the user has the right credentials
-    current_user.url = url
-    current_user.price = price
-
-    new_url = UrlList(user_id=current_user.id, url=url)
+    new_url = UrlList(user_id=current_user.id, url=url, price=price)
 
     db.session.add(new_url)
     db.session.commit()
@@ -37,12 +34,26 @@ def subscribe():
 
 @main.route('/dashboard')
 def dashboard():
-    # can_purchase = track(current_user.url, current_user.price)
+    
     can_purchase = True
     url_list = UrlList.query.filter_by(user_id=current_user.id).all()
     print(url_list)
-    if can_purchase:
-        valid = "You can purchase this item!"
-    else:
-        valid = "You cannot currently purchase this item!"
-    return render_template('dashboard.html', name=current_user.name, valid=valid)
+    print(url_list[0].price)
+    thumbnail_lst = []
+    actual_prices_lst = []
+    can_buy = []
+    """ 
+        Track will update the above lists with the links to the 
+        respective images and prices of the products
+    """
+    can_purchase = True
+    can_purchase = track(url_list, thumbnail_lst, actual_prices_lst, can_buy)
+    print(actual_prices_lst)
+    print(can_buy)
+
+    # if can_purchase:
+    #     valid = "You can purchase this item!"
+    # else:
+    #     valid = "You cannot currently purchase this item!"
+    return render_template('dashboard.html', name=current_user.name, url_list=url_list, thumbnail_lst=thumbnail_lst,
+     actual_prices_lst=actual_prices_lst, can_buy=can_buy, length=len(url_list))

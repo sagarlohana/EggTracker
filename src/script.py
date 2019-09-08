@@ -2,7 +2,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
-def track(url, price):
+def track(url_list, thumbnail_lst, actual_prices_lst, can_buy):
 # url = "https://www.amazon.ca/Anker-Headphones-Lightweight-Connection-Sweatproof/dp/B01N6DC2ZE/ref=sr_1_1?keywords=bluetooth+headphones&qid=1562557096&s=gateway&sr=8-1"
 # desired_price = 40.00
 
@@ -28,12 +28,27 @@ def track(url, price):
 #     print("Yes you can purchase it")
 # else:
 #     print("No not in your price range")
+    for url in url_list:  
+        result = requests.get(url.url)
 
-    result = requests.get(url)
+        soup = BeautifulSoup(result.text, 'html.parser')
+        # with open('out.txt', 'w') as f:
+        #     print (soup.prettify, file=f)
 
-    soup = BeautifulSoup(result.text, 'html.parser')
-    print (soup.prettify)
-    current_price = soup.find('meta', {'itemprop': 'price'})['content']
-    if current_price <= price:
-        return True
-    return False
+        # Find current product price
+        current_price = soup.find('meta', {'itemprop': 'price'})['content']
+
+        # Find thumbnail of product
+        img_object = soup.find('a', {'onfocus': re.compile('swapProductImageWithLoadding2011.*')})['onfocus']
+        pattern = re.compile('c1\.neweggimages\.com/NeweggImage/ProductImage/.*\.jpg')
+        result = pattern.search(img_object)
+
+        thumbnail = result.group(0).split(',')[0][:-1]
+        thumbnail_lst += [thumbnail]
+
+        actual_prices_lst += [current_price]
+
+        if current_price <= url.price:
+            can_buy += [True]
+        else:
+            can_buy += [False]
