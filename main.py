@@ -31,8 +31,7 @@ def subscribe():
 
     db.session.add(new_url)
     db.session.commit()
-    curr_url = UrlList.query.filter_by(user_id=current_user.id).first()
-    print(curr_url)
+
     return render_template('profile.html', name=current_user.name, subscribed=True)
 
 @main.route('/dashboard')
@@ -40,8 +39,6 @@ def dashboard():
     
     can_purchase = True
     url_list = UrlList.query.filter_by(user_id=current_user.id).all()
-    print(url_list)
-    print(url_list[0].price)
     thumbnail_lst = []
     actual_prices_lst = []
     can_buy = []
@@ -49,13 +46,10 @@ def dashboard():
         respective images and prices of the products
     """
     num_products = track(url_list, thumbnail_lst, actual_prices_lst, can_buy)
-    print(actual_prices_lst)
-    print(can_buy)
 
     current_user.products_available = num_products 
     current_user.total_products = len(url_list)
     db.session.commit()
-    # print("Products Available: {}, Total Products: {}".format(current_user.products_available, current_user.total_products))
 
     return render_template('dashboard.html', name=current_user.name, url_list=url_list, thumbnail_lst=thumbnail_lst,
      actual_prices_lst=actual_prices_lst, can_buy=can_buy, length=len(url_list))

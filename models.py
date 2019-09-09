@@ -1,4 +1,5 @@
 # models.py
+
 from flask_login import UserMixin
 from . import db
 
@@ -9,6 +10,7 @@ class User(UserMixin, db.Model):
     name = db.Column(db.String(1000))
     products_available = db.Column(db.Integer)
     total_products = db.Column(db.Integer)
+    
 class UrlList(db.Model):
     id = db.Column(db.Integer, primary_key=True) # Primary keys are required by SQLAlchemy
     user_id = db.Column(db.Integer)
