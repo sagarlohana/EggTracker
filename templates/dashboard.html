@@ -13,7 +13,7 @@
       <td> Product </td>
       <td> Desired Price </td>
       <td> Product Price </td>
-      <td> Can Buy? </td>
+      <td> Within Budget? </td>
     </tr>
   </thead>
   <tbody>
@@ -26,7 +26,11 @@
       </td>
       <td>${{ url_list[i].price }}</td>
       <td>${{ actual_prices_lst[i] }}</td>
-      <td>{{ can_buy[i] }}</td>
+      {% if can_buy[i] == True %}
+      <td><p style="color: #00FF00">Yes</p></td>
+      {% else %}
+      <td><p style="color: #FF0000">No</p></td>
+      {% endif %}
     </tr>
     {% endfor %}
   </tbody>
